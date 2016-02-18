@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+
+	<xsd:complexType name="fire_group_list">
+		<xsd:sequence>
+			<xsd:element name="fire_group" type="fire_group" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="fire_group">
+		<xsd:attribute name="can_chamber_ironsights" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="chamber_duration_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="fire_group_id"></xsd:attribute>
+		<xsd:attribute name="spool_up_initial_refire_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="spool_up_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="transition_duration_ms" type="xsd:int"></xsd:attribute>
+	</xsd:complexType>
+
+	<xsd:element name="fire_group_list" type="fire_group_list"></xsd:element>
+</xsd:schema>

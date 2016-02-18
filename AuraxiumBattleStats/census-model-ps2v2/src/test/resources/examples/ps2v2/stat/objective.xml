@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<objective_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<objective objective_group_id="1" objective_id="1"
+		objective_type_id="12" param1="10" param2="NULL" param3="5" param4="-1"
+		param5="30" param6="NULL" param7="NULL" param8="-1" param9="NULL" />
+	<objective objective_group_id="2" objective_id="2"
+		objective_type_id="12" param1="10" param2="NULL" param3="5" param4="-1"
+		param5="82" param6="NULL" param7="NULL" param8="-1" param9="NULL" />
+	<objective objective_group_id="3" objective_id="3"
+		objective_type_id="12" param1="10" param2="NULL" param3="5" param4="-1"
+		param5="7124" param6="NULL" param7="NULL" param8="-1" param9="NULL" />
+</objective_list>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="faction_list">		
+		<xsd:sequence>
+			<xsd:element name="faction" type="faction" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="faction">		
+		<xsd:sequence>
+			<xsd:element name="name" type="multi_language_description_type"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attribute name="code_tag" type="xsd:string"></xsd:attribute>
+		<xsd:attribute ref="faction_id"></xsd:attribute>
+		<xsd:attribute ref="image_id"></xsd:attribute>
+		<xsd:attribute ref="image_path"></xsd:attribute>
+		<xsd:attribute ref="image_set_id"></xsd:attribute>
+		<xsd:attribute name="user_selectable" type="xsd:boolean"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="faction_list" type="faction_list"></xsd:element>
+</xsd:schema>

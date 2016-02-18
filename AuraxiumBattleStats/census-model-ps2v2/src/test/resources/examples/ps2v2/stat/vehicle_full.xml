@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vehicle_list limit="0" returned="21" milliseconds="0"
+	seconds="0.0">
+	<vehicle vehicle_id="1" type_id="5" type_name="Four Wheeled Ground Vehicle??"
+		cost="50" cost_resource_id="4" image_set_id="98" image_id="3975"
+		image_path="/files/ps2/images/static/3975.png">
+		<name de="Flash" en="Flash" es="Flash" fr="Flash" it="Flash"
+			tr="&#350;&#304;M&#350;EK" />
+		<description
+			de="Der Flash ist ein Quad, das den Fahrer und einen Passagier schnell an die Front zu bringt. Der Passagier ist in der Lage, das meiste seiner Ausr&#252;stung zu benutzen, w&#228;hrend er auf dem R&#252;cksitz mitf&#228;hrt."
+			en="The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back."
+			es="El Flash es un ATV capaz de llevar al conductor y aun soldado m&#225;s a las l&#237;neas del frente r&#225;pidamente. El pasajero puede usar la mayor&#237;a de su equipo personal desde la parte trasera del veh&#237;culo en la que se sienta."
+			fr="Le Flash est un Quad pouvant transporter son conducteur et un passager au front rapidement. Le passager peut utiliser la plupart de son &#233;quipement personnel lorsqu&apos;il est install&#233; &#224; l&apos;arri&#232;re."
+			it="Il Flash &#232; un Atv che consente al conducente e al passeggero di arrivare velocemente al fronte. Il passeggero pu&#242; utilizzare la maggior parte dell&apos;equipaggiamento personale mentre viaggia nel retro del veicolo."
+			tr="&#350;im&#351;ek, s&#252;r&#252;c&#252;y&#252; ve bir yolcuyu cephe hatt&#305;na &#231;abuk ula&#351;t&#305;rabilen bir ATV arac&#305;d&#305;r. Yolcu arkada otururken ki&#351;isel ekipmanlar&#305;ndan &#231;o&#287;unu kullanabilir." />
+	</vehicle>
+	<vehicle vehicle_id="2" type_id="5" type_name="Four Wheeled Ground Vehicle??"
+		cost="200" cost_resource_id="4" image_set_id="100" image_id="4002"
+		image_path="/files/ps2/images/static/4002.png">
+		<name de="Sunderer" en="Sunderer" es="Sunderer" fr="Disperseur"
+			it="Sunderer" tr="YARICI" />
+		<description
+			de="Ein Sunderer ist ein gro&#223;er Transporter mit Platz f&#252;r bis zu 12 Personen. Er kann auch mit einigen anderen Unterst&#252;tzungsfunktionen wie beispielsweise einer transportablen Respawnstation, Fahrzeugreparatur oder Munitionsversorgung der Fahrzeuge ausgestattet werden."
+			en="The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+			es="El Sunderer es un transporte de gran capacidad que puede llevar hasta 12 soldados. Tambi&#233;n se le pueden otorgar funciones de apoyo como estaci&#243;n m&#243;vil de apariciones, punto de reparaci&#243;n de veh&#237;culos o punto de suministro de veh&#237;culos. "
+			fr="Le Disperseur est un gros v&#233;hicule capable de transporter 12 soldats. Il peut aussi &#234;tre &#233;quip&#233; de plusieurs fonctions de soutien telles qu&apos;une station de r&#233;animation mobile, un v&#233;hicule de r&#233;paration ou un v&#233;hicule de r&#233;approvisionnement en munitions."
+			it="Il Sunderer &#232; un grosso trasporto truppe capace di portare fino a 12 soldati. Pu&#242; anche venire equipaggiato per avere funzioni di supporto come stazione mobile di rigenerazione, di riparazione veicoli o di fornitura di munizioni per veicoli."
+			tr="Yar&#305;c&#305;, 12 asker ta&#351;&#305;yabilme &#246;zelli&#287;ine sahip b&#252;y&#252;k bir asker nakil arac&#305;d&#305;r. Ayn&#305; zamanda gezici bir ekipman terminali, ara&#231; tamiri ya da ara&#231; m&#252;himmat ikmali gibi farkl&#305; i&#351;levlere de sahiptir." />
+	</vehicle>
+	<vehicle vehicle_id="3" type_id="5" type_name="Four Wheeled Ground Vehicle??"
+		cost="350" cost_resource_id="4" image_set_id="94" image_id="3984"
+		image_path="/files/ps2/images/static/3984.png">
+		<name de="Lightning" en="Lightning" es="Lightning" fr="Foudre"
+			it="Lightning" tr="YILDIRIM" />
+		<description
+			de="Der Lightning ist ein leichter Ein-Mann-Panzer. Er kann mit verschiedenen Gesch&#252;tzarten ausgestattet werden, um zur Flugabwehr oder zur Panzerabwehr eingesetzt zu werden."
+			en="The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles."
+			es="El Lightning es un tanque monoplaza ligero al que se le pueden instalar varios tipos de torretas que lo hacen efectivo contra veh&#237;culos a&#233;reos y blindados."
+			fr="Le Foudre est un char l&#233;ger monoplace. Le Foudre peut &#234;tre &#233;quip&#233; de diff&#233;rentes tourelles lui permettant de remplir des r&#244;les anti-a&#233;riens et anti-chars."
+			it="Il Lightning &#232; un carro leggero monoposto. Il Lightning pu&#242; essere equipaggiato con vari tipi di torrette che gli permettono di avere ruoli antiaerei e anche anticarro."
+			tr="Y&#305;ld&#305;r&#305;m, hafif bir tek ki&#351;ilik tankt&#305;r. Y&#305;ld&#305;r&#305;m, u&#231;ak-savar ve z&#305;rh-savar rollerinde kullan&#305;lmak &#252;zere farkl&#305; tip taretler ile donat&#305;labilinir." />
+	</vehicle>
+	<vehicle vehicle_id="4" type_id="2" type_name="Hover Tank"
+		cost="450" cost_resource_id="4" image_set_id="95" image_id="3987"
+		image_path="/files/ps2/images/static/3987.png">
+		<name de="Magrider" en="Magrider" es="Magrider" fr="A&#233;rochar"
+			it="Magrider" tr="S&#220;VAR&#304;" />
+		<description
+			de="Der Magrider ist ein Luftkissenpanzer, der ausschlie&#223;lich von der Vanu-Souver&#228;nit&#228;t genutzt wird. Mit seinen Schwebeeigenschaften kann er weitaus mehr Gel&#228;ndearten als andere Panzer bezwingen."
+			en="The Magrider is a hover tank used exclusively by the Vanu Sovereignty.  Its hover capabilities allow it ability strafe and climb more types of terrain beyond other tanks."
+			es="El Magrider es un tanque aerodeslizador exclusivo de la Soberan&#237;a Vanu. Sus capacidades para sostenerse en el aire le permiten realizar desplazamientos laterales y trepar por todo tipo de terrenos inalcanzables para otros tanques."
+			fr="L&apos;A&#233;rochar est un char planeur utilis&#233; exclusivement par la Souverainet&#233; Vanu. Ses capacit&#233;s de vol stationnaire lui permettent de mitrailler au sol et de grimper tout type de terrain mieux que les autres chars."
+			it="Il Magrider &#232; il carro armato aeroscivolante della Sovranit&#224; Vanu. La sua capacit&#224; di librarsi gli consente di spostarsi lateralmente e di arrampicarsi su una variet&#224; di terreni, in modo superiore agli altri carri."
+			tr="S&#252;vari, sadece Vanu H&#252;k&#252;mdarl&#305;&#287;&#305;&apos;nda mevcut olan orta s&#305;n&#305;f bir tankt&#305;r. S&#252;vari, havada durma &#246;zellikleri sayesinde yanlara d&#246;n&#252;&#351; kabiliyetine ve farkl&#305; tip arazilerde di&#287;er tanklara g&#246;re daha fazla t&#305;rmanma &#246;zelli&#287;ine sahiptir." />
+	</vehicle>
+	<vehicle vehicle_id="5" type_id="5" type_name="Four Wheeled Ground Vehicle??"
+		cost="450" cost_resource_id="4" image_set_id="101" image_id="4005"
+		image_path="/files/ps2/images/static/4005.png">
+		<name de="Vanguard" en="Vanguard" es="Vanguard" fr="&#201;claireur"
+			it="Vanguard" tr="&#214;NC&#220;" />
+		<description
+			de="Der Vanguard ist ein robuster Panzer, der ausschlie&#223;lich vom Neuen Konglomerat genutzt wird. Der Vanguard bevorzugt schwerere Frontpanzerung als andere Fahrzeuge seiner Klasse, aber das geht auch auf Kosten der Geschwindigkeit."
+			en="The Vanguard is a sturdy tank used exclusively by the New Conglomerate.  The vanguard favors heavier front armor compared to other tanks, but this comes at the cost of speed."
+			es="El Vanguard es un tanque robusto exclusivo del Nuevo Conglomerado. Comparado con otros tanques, el Vanguard dispone de un blindaje delantero m&#225;s pesado, pero eso implica una reducci&#243;n de velocidad."
+			fr="L&apos;&#201;claireur est un char solide utilis&#233; exclusivement par le Nouveau Conglom&#233;rat. L&apos;&#201;claireur est dot&#233; d&apos;un blindage frontal plus lourd compar&#233; &#224; d&apos;autres chars, mais c&apos;est au d&#233;triment de la rapidit&#233;."
+			it="Il Vanguard &#232; il carro armato pesante usato esclusivamente dal Nuovo Conglomerato. Il Vanguard &#232; dotato di un&apos;armatura frontale pi&#249; pesante rispetto agli altri carri ed &#232; per questo meno veloce."
+			tr="&#214;nc&#252;, sadece Yeni Birle&#351;im&apos;de mevcut olan orta s&#305;n&#305;f bir tankt&#305;r. &#214;nc&#252;, di&#287;er tanklara k&#305;yasla &#246;n taraf&#305; daha a&#287;&#305;r bir z&#305;rha sahiptir ama bu &#246;zellik h&#305;z&#305;ndan feragat ettirmektedir." />
+	</vehicle>
+	<vehicle vehicle_id="6" type_id="5" type_name="Four Wheeled Ground Vehicle??"
+		cost="450" cost_resource_id="4" image_set_id="97" image_id="3993"
+		image_path="/files/ps2/images/static/3993.png">
+		<name de="Prowler" en="Prowler" es="Prowler" fr="Pr&#233;dateur"
+			it="Prowler" tr="S&#304;NS&#304;" />
+		<description
+			de="Der Prowler ist ein beweglicher Panzer, der ausschlie&#223;lich von der Terranischen Republik genutzt wird. Er gl&#228;nzt mit enormer H&#246;chstgeschwindigkeit und seine Zwillingskanonen k&#246;nnen noch schneller Schaden verursachen."
+			en="The Prowler is a versatile tank used exclusively by the Terran Republic.  It boasts a higher top speed and its twin barrel cannons are capable of inflicting damage quicker than the other tanks."
+			es="El Prowler es un vers&#225;til tanque exclusivo de la Rep&#250;blica Terran. Cuenta con una velocidad m&#225;xima superior y sus ca&#241;ones dobles hacen que pueda infligir da&#241;o mucho m&#225;s deprisa que otros tanques."
+			fr="Le Pr&#233;dateur est un char polyvalent utilis&#233; exclusivement par la R&#233;publique Terrane. Il s&apos;enorgueillit d&apos;une vitesse maximale plus &#233;lev&#233;e et de canons jumeaux pouvant infliger des d&#233;g&#226;ts plus rapidement que les autres chars."
+			it="Il Prowler &#232; un carro armato versatile usato esclusivamente dalla Repubblica Terrestre. Ha una velocit&#224; massima molto alta ed &#232; dotato di cannoni gemelli che possono infliggere danni pi&#249; rapidamente rispetto a quelli degli altri carri."
+			tr="Sinsi, sadece Terran Cumhuriyeti&apos;nde mevcut olan orta s&#305;n&#305;f bir tankt&#305;r. Y&#252;ksek h&#305;zlara &#231;abuk &#231;&#305;kabilir ve ikiz toplar&#305; ile di&#287;er tanklara g&#246;re daha a&#287;&#305;r hasat verme kabiliyetine sahiptir." />
+	</vehicle>
+	<vehicle vehicle_id="7" type_id="1" type_name="Light Aircraft"
+		cost="350" cost_resource_id="4" image_set_id="102" image_id="3999"
+		image_path="/files/ps2/images/static/3999.png">
+		<name de="Scythe" en="Scythe" es="Scythe" fr="Faucheuse" it="Scythe"
+			tr="TIRPAN" />
+		<description
+			de="Der Scythe ist ein durch eine Person bemanntes Jagdflugzeug, das ausschlie&#223;lich von der Vanu-Souver&#228;nit&#228;t eingesetzt wird. Dank der Technologie der Vanu kann der Scythe stabiler schweben und sein Tempo drosseln."
+			en="The Scythe is a one man air superiority fighter in use exclusively by the Vanu Sovereignty.  Vanu technology allows the Scythe to be a more stable aircraft when hovering and decelerating."
+			es="El Scythe es un caza monoplaza de superioridad a&#233;rea exclusivo de la Soberan&#237;a Vanu. La tecnolog&#237;a de Vanu permite que el Scythe sea una aeronave m&#225;s estable a la hora de sostenerse en el aire y disminuir la velocidad."
+			fr="La Faucheuse est un a&#233;ronef sup&#233;rieur monoplace utilis&#233; exclusivement par la Souverainet&#233; Vanu. La technologie Vanu permet &#224; la Faucheuse d&apos;&#234;tre un a&#233;ronef plus stable lors du vol stationnaire ou de la d&#233;c&#233;l&#233;ration."
+			it="Lo Scythe &#232; un caccia monoposto di superiorit&#224; aerea usato esclusivamente dalla Sovranit&#224; Vanu. La tecnologia Vanu ha dotato lo Scythe di una maggiore stabilit&#224; quando rimane sospeso in aria e perde velocit&#224;."
+			tr="T&#305;rpan, sadece Vanu H&#252;k&#252;mdarl&#305;&#287;&#305;&apos;nda mevcut olan tek ki&#351;i taraf&#305;ndan kullan&#305;lan bir hava &#252;st&#252;nl&#252;&#287;&#252; u&#231;a&#287;&#305;d&#305;r. Vanu teknolojisi, T&#305;rpan&apos;&#305;n havada kal&#305;rken ve al&#231;al&#305;rken daha dengeli olmas&#305;n&#305; sa&#287;lar." />
+	</vehicle>
+	<vehicle vehicle_id="8" type_id="1" type_name="Light Aircraft"
+		cost="350" cost_resource_id="4" image_set_id="99" image_id="3996"
+		image_path="/files/ps2/images/static/3996.png">
+		<name de="Reaver" en="Reaver" es="Reaver" fr="Ravageur" it="Reaver"
+			tr="YA&#286;MACI" />
+		<description
+			de="Der Reaver ist ein durch eine Person bemanntes Jagdflugzeug, das ausschlie&#223;lich vom Neuen Konglomerat eingesetzt wird. Seine leistungsstarken Motoren, kombiniert mit der gro&#223;en Nachbrennkapazit&#228;t, machen dieses Flugzeug zu dem schnellsten imperiumsspezifischen Jagdflieger am Himmel."
+			en="The Reaver is a one man air superiority fighter in use exclusively by the New Conglomerate.  Its powerful engines combined with its great afterburner capacity make this aircraft the fastest empire specific fighter in the skies."
+			es="El Reaver es un caza monoplaza de superioridad a&#233;rea exclusivo del Nuevo Conglomerado. Sus grandes motores junto con su gran capacidad de postcombusti&#243;n hacen que este sea el caza m&#225;s r&#225;pido espec&#237;fico de un imperio."
+			fr="Le Ravageur est un appareil a&#233;rien sup&#233;rieur monoplace utilis&#233; exclusivement par le Nouveau Conglom&#233;rat. Ses moteurs puissants alli&#233;s &#224; sa superbe capacit&#233; de postcombustion font de cet a&#233;ronef le combattant sp&#233;cifique &#224; son empire le plus rapide du ciel."
+			it="Il Reaver &#232; un caccia monoposto di superiorit&#224; aerea usato esclusivamente dal Nuovo Conglomerato. I suoi potenti motori combinati a un postbruciatore capace gli consentono di raggiungere la pi&#249; alta velocit&#224; tra i caccia di tutti gli imperi."
+			tr="Ya&#287;mac&#305;, yaln&#305;zca Yeni Birle&#351;im taraf&#305;ndan kullan&#305;lan ki&#351;isel hava &#252;st&#252;nl&#252;&#287;&#252;ne sahip bir hava arac&#305;d&#305;r. B&#252;y&#252;k motorlar&#305;ndaki Afterburner kapasitesinin g&#252;&#231;l&#252; motorlarla birle&#351;mesi sayesinde bu u&#231;ak, imparatorlu&#287;un en iyi dal&#305;&#351; h&#305;z&#305;na ula&#351;an hava arac&#305;d&#305;r." />
+	</vehicle>
+	<vehicle vehicle_id="9" type_id="1" type_name="Light Aircraft"
+		cost="350" cost_resource_id="4" image_set_id="96" image_id="3990"
+		image_path="/files/ps2/images/static/3990.png">
+		<name de="Mosquito" en="Mosquito" es="Mosquito" fr="Mosquito" it="Mosquito"
+			tr="S&#304;VR&#304;S&#304;NEK" />
+		<description
+			de="Der Mosquito ist ein durch eine Person bemanntes Jagdflugzeug, das ausschlie&#223;lich von der Terranischen Republik eingesetzt wird. Durch jahrzehntelange Optimierung, ist dieses imperiumsspezifische Flugzeug nun das schnellste und beweglichste seiner Art."
+			en="The Mosquito is a one man air superiority fighter in use exclusively by the Terran Republic.  Decades of refinement have made this aircraft the quickest and most agile of all the empire-specific aircrafts."
+			es="El Mosquito es un caza monoplaza de superioridad a&#233;rea exclusivo de la Rep&#250;blica Terran. A&#241;os de refinamiento han llevado a esta aeronave a ser la m&#225;s r&#225;pida y &#225;gil de todas las naves espec&#237;ficas de un imperio."
+			fr="Le Mosquito est un a&#233;ronef sup&#233;rieur monoplace utilis&#233; exclusivement par la R&#233;publique Terrane. Des d&#233;cennies de raffinement ont fait du Mosquito l&apos;a&#233;ronef le plus rapide et le plus agile de tous les a&#233;ronefs sp&#233;cifiques &#224; leur empire."
+			it="Il Mosquito &#232; un caccia monoposto di superiorit&#224; aerea usato esclusivamente dalla Repubblica Terrestre. Decenni di perfezionamento ne hanno fatto il velivolo pi&#249; agile di tutti i velivoli degli imperi."
+			tr="Sivrisinek, yaln&#305;zca Terran Cumhuriyeti taraf&#305;ndan kullan&#305;lan, ki&#351;isel hava &#252;st&#252;nl&#252;&#287;&#252;ne sahip bir hava arac&#305;d&#305;r. Y&#305;llarca s&#252;ren geli&#351;tirmeler sayesinde bu u&#231;ak, imparatorluk hava ara&#231;lar&#305; aras&#305;ndaki en h&#305;zl&#305; ve en &#231;evik hava arac&#305; olmu&#351;tur." />
+	</vehicle>
+	<vehicle vehicle_id="10" type_id="1" type_name="Light Aircraft"
+		cost="450" cost_resource_id="4" image_set_id="93" image_id="3981"
+		image_path="/files/ps2/images/static/3981.png">
+		<name de="Liberator" en="Liberator" es="Liberator" fr="Lib&#233;rateur"
+			it="Liberator" tr="KURTARICI" />
+		<description
+			de="Der Liberator ist ein Drei-Mann-Kampfflugzeug. Das Artelleriegesch&#252;tz ist extrem wirksam gegen Bodenziele und er verf&#252;gt ebenso &#252;ber ein Heckgesch&#252;tz, um gegnerische J&#228;ger abzuwehren."
+			en="The Liberator is a three man gun ship.  The bombardier weapon is very powerful against ground targets and it has a tail gun to ward off enemy fighters."
+			es="El Liberator es una nave de asalto de tres plazas. Su arma bombardera es muy potente contra objetivos terrestres y tiene un puesto de artillero de cola para defenderse de los cazas enemigos."
+			fr="Le Lib&#233;rateur est un appareil de combat servi par 3 hommes d&apos;&#233;quipage. Son bombardier est tr&#232;s puissant contre les cibles au sol et il poss&#232;de un canonnier arri&#232;re pour repousser les combattants ennemis."
+			it="Il Liberator &#232; una cannoniera volante con tre uomini di equipaggio. L&apos;armamento di bordo &#232; molto potente contro i bersagli a terra e possiede anche un cannone sulla coda per tenere lontani i caccia nemici."
+			tr="Kurtar&#305;c&#305;, &#252;&#231; ki&#351;ilik bir sava&#351; helikopteridir. Bombard&#305;man silah&#305; yer hedeflerine kar&#351;&#305; &#231;ok g&#252;&#231;l&#252;d&#252;r ve kuyruk silah&#305; d&#252;&#351;man sava&#351;&#231;&#305;lar&#305;n&#305; parampar&#231;a eder." />
+	</vehicle>
+	<vehicle vehicle_id="11" type_id="1" type_name="Light Aircraft"
+		cost="450" cost_resource_id="4" image_set_id="92" image_id="3978"
+		image_path="/files/ps2/images/static/3978.png">
+		<name de="Galaxy" en="Galaxy" es="Galaxy" fr="Galaxie" it="Galaxy"
+			tr="GALAKS&#304;" />
+		<description
+			de="Der Galaxy ist ein Lufttransporter, der bis zu elf Soldaten schnell in eine Basis bringen kann. Er enth&#228;lt vier Waffenaufs&#228;tze, die zur Verteidigung oder zur Ausstattung in einer Kampfflugzeugrolle verwendet werden k&#246;nnen."
+			en="The Galaxy is an air transport that can be used to hot drop up to 11 soldiers.  It has four weapon mounts that can be used for defense or outfitted into a gunship role."
+			es="El Galaxy sirve como trasporte a&#233;reo y puede desembarcar hasta 11 soldados. Tiene cuatro puntos de fijaci&#243;n de armas que pueden ser utilizados como defensa o para transformarlo en una nave de guerra."
+			fr="Le Galaxie est un transport a&#233;rien qui peut &#234;tre utilis&#233; pour larguer directement jusqu&apos;&#224; 11 soldats. Il a quatre supports d&apos;armes qui peuvent &#234;tre utilis&#233;s pour la d&#233;fense ou &#233;quip&#233;s pour remplir le r&#244;le de cannonier."
+			it="Il Galaxy &#232; un aereo da trasporto che pu&#242; essere usato per paracadutare fino a 11 soldati. Pu&#242; montare fino a quattro armi per difesa o le pu&#242; equipaggiare come cannoniera. "
+			tr="Galaksi, 11 askeri ta&#351;&#305;yabilen bir hava nakil arac&#305;d&#305;r. Savunma amac&#305;yla ya da sald&#305;r&#305; arac&#305; olarak kullan&#305;labilen d&#246;rt silah yuvas&#305;na sahiptir." />
+	</vehicle>
+	<vehicle vehicle_id="12" type_id="5"
+		type_name="Four Wheeled Ground Vehicle??" cost="150" cost_resource_id="4"
+		image_set_id="3155" image_id="8687" image_path="/files/ps2/images/static/8687.png">
+		<name de="Harasser" en="Harasser" es="Harasser" fr="Offenseur"
+			it="Harasser" tr="Tacizci" />
+		<description
+			de="Der Harasser ist ein weniger Wagen f&#252;r drei Personen, der f&#252;r alle Imperien zug&#228;nglich ist. Der Fahrer und der Sch&#252;tze sitzen beide im inneren des Cockpits w&#228;hrend der dritte Passagier hinten auf dem Wagen steht und Zugriff auf seine eigenen Waffen hat."
+			en="The Harasser is an agile 3 man buggy that is available to all empires.  The driver and gunner are both seated inside the cockpit; while the third passenger stands on the rear of the buggy and has access to his own weapons."
+			es="El Harasser es un veh&#237;culo de 3 plazas que est&#225; disponible para todos los imperios. El conductor y el artillero se sientan en la cabina mientras que el tercer pasajero va de pie en la parte trasera del veh&#237;culo y tiene acceso a sus propias armas."
+			fr="L&apos;Offenseur est un buggy &#224; trois places disponible pour tous les empires. Le conducteur et le canonnier sont tous deux assis &#224; l&apos;int&#233;rieur du cockpit tandis que le troisi&#232;me passager est debout &#224; l&apos;arri&#232;re du buggy et a acc&#232;s &#224; ses propres armes."
+			it="L&apos;Harrasser &#232; un agile veicolo per tre passeggeri disponibile a tutti gli imperi. Il conducente e l&apos;artigliere sono entrambi seduti nell&apos;abitacolo, mentre il terzo passeggero sta in piedi nella parte posteriore del veicolo e pu&#242; accedere alle sue armi."
+			tr="Tacizci, t&#252;m imparatorluklar&#305;n kullanabilece&#287;i &#252;&#231; ki&#351;ilik bir buggy arac&#305;d&#305;r. S&#252;r&#252;c&#252; ve ni&#351;anc&#305; kokpitin i&#231;inde oturur; &#252;&#231;&#252;nc&#252; yolcu ise buggy arac&#305;n&#305;n arkas&#305;ndad&#305;r ve kendi silahlar&#305;n&#305; kullanabilir." />
+	</vehicle>
+	<vehicle vehicle_id="13" type_id="8" type_name="Drop Pod"
+		image_set_id="9088" image_id="7349" image_path="/files/ps2/images/static/7349.png">
+		<name de="Transportkapsel" en="Drop Pod" es="C&#225;psula de aterrizaje"
+			fr="Module de d&#233;ploiement" it="Capsula di sbarco" tr="&#304;ni&#351; Kaps&#252;l&#252;" />
+		<description
+			de="Vom Orbit aus freigesetzt, werden die Transportkapseln dazu benutzt, Truppen schnell auf einem Schlachtfeld einzusetzen. Die Soldaten darin k&#246;nnen die Richtung der Kapsel ein wenig steuern und sie in einigen F&#228;llen als effektive Waffe gegen diejenigen benutzen, auf der die Kapsel landet."
+			en="Released from orbit, Drop Pods are used to rapidly deploy troops to a battlefield.  Soldiers in the drop pod have some control on the pod&apos;s direction and in some cases can use it as an effective weapon, damaging those it lands on."
+			es="Las c&#225;psulas de aterrizaje se lanzan desde la &#243;rbita y se utilizan para desplegar tropas en el campo de batalla. Los soldados tienen cierto control sobre la direcci&#243;n que toman las c&#225;psulas y en algunos casos, las pueden utilizar como armas que da&#241;an a aquellos sobre los que aterrizan."
+			fr="Lib&#233;r&#233;s de leur orbite, les modules de d&#233;ploiement sont utilis&#233;s pour d&#233;ployer rapidement des soldats sur le champ de bataille. Les soldats &#224; l&apos;int&#233;rieur du module ont un certain contr&#244;le sur sa direction et peuvent parfois l&apos;utiliser comme une arme efficace, infligeant des d&#233;g&#226;ts l&#224; o&#249; il atterrit."
+			it="Le capsule di sbarco sono usate per schierare rapidamente le truppe sul campo di battaglia. I soldati che si trovano nella capsula hanno una minima possibilit&#224; di controllare la direzione in cui si muovono e talvolta possono trasformare la capsula stessa in un&apos;arma efficace, causando danni nell&apos;impatto."
+			tr="Y&#246;r&#252;ngeden gelen &#304;ni&#351; Kaps&#252;lleri, askerleri bir sava&#351; alan&#305;na hemen indirmek i&#231;in kullan&#305;l&#305;r. &#304;ni&#351; kaps&#252;l&#252;ndeki askerler, kaps&#252;l y&#246;n&#252;n&#252; kontrol edebilir ve duruma g&#246;re etkili bir silah gibi kullanarak ini&#351; yerinde bulunanlara hasar verebilirler. " />
+	</vehicle>
+	<vehicle vehicle_id="14" type_id="1" type_name="Light Aircraft"
+		cost="250" cost_resource_id="4" image_set_id="14268" image_id="79698"
+		image_path="/files/ps2/images/static/79698.png">
+		<name de="Valkyrie" en="Valkyrie" es="Valkyrie" fr="Valkyrie" it="Valkyrie"
+			tr="Valkyrie" />
+		<description
+			de="Die Valkyrie ist ein 6-Personen-Flugzeug, das f&#252;r die nahe Luftunterst&#252;tzung und den Transport geeignet sind. Es wird von einem Piloten und einem Frontsch&#252;tzen geflogen und hat vier Pl&#228;tze f&#252;r Passagiere, die ihre private Ausr&#252;stung w&#228;hrend des Fluges benutzen k&#246;nnen."
+			en="The Valkyrie is a six person aircraft used for close air support and transportation. It is crewed by a pilot and a forward gunner with room for four passengers that are able to use their personal equipment while in flight."
+			es="El Valkyrie es una aeronave para seis personas que se utiliza como apoyo a&#233;reo de corto alcance y como medio de transporte. Su tripulaci&#243;n consta de un piloto y un artillero frontal, con espacio para cuatro pasajeros que pueden usar su propio armamento durante el vuelo."
+			fr="Le Valkyrie est un a&#233;ronef transportant 6 personnes, il est utilis&#233; en tant que support a&#233;rien rapproch&#233; ainsi que pour le transport. Son &#233;quipage est compos&#233; d&apos;un pilote, d&apos;un cannonier avant et il contient de la place pour quatre passagers pouvant utiliser leur &#233;quipement en vol."
+			it="Il Valkyrie &#232; un aereo a sei posti usato per il supporto e il trasporto sulle corte distanze. &#200; equipaggiato con un pilota e un artigliere frontale e ha posto per quattro passeggeri che possono usare la loro attrezzatura mentre sono in volo."
+			tr="Valkyrie Vehicle Description" />
+	</vehicle>
+	<vehicle vehicle_id="100" type_id="7" type_name="Umovable Turret"
+		image_set_id="8488" image_id="10950" image_path="/files/ps2/images/static/10950.png">
+		<name de="Phalanx-Gesch&#252;tz &quot;Xiphos&quot; (Personenabwehr)"
+			en="Xiphos Phalanx Turret (Anti-Personnel)" es="Torreta Phalanx Xiphos (antipersonal)"
+			fr="Tourelle Phalange &quot;Xiphos&quot; (antipersonnel)" it="Torretta Phalanx Xiphos (antiuomo)"
+			tr="&quot;Xiphos&quot; Anti Personel Falanks Tareti" />
+		<description
+			de="Das Xiphos Phalanx-Gesch&#252;tz ist mit zwei &#228;u&#223;erst genauen Gatling-Gewehren ausger&#252;stet, die eine Infanterie-Einheiten zerfetzen k&#246;nnen."
+			en="The Xiphos Phalanx Turret is armed with two high accuracy gatling guns that are capable of shredding infantry."
+			es="La torreta Phalanx Xiphos est&#225; compuesta por dos ametralladoras Gatling de alta precisi&#243;n capaces de aniquilar tropas de infanter&#237;a."
+			fr="La tourelle Phalange Xiphos est &#233;quip&#233;e de deux canons gatling de haute pr&#233;cision parfaits pour d&#233;chiqueter l&apos;infanterie."
+			it="La torretta Xiphos Phalanx &#232; dotata di due pistole Gatling ad alta precisione in grado di fare a pezzi la fanteria."
+			tr="Xiphos Falanks Tareti, piyade &#246;ld&#252;rmekte olduk&#231;a etkili iki adet y&#252;ksek isabet oran&#305;na sahip mitraly&#246;z ile donat&#305;lm&#305;&#351;t&#305;r." />
+	</vehicle>
+	<vehicle vehicle_id="101" type_id="7" type_name="Umovable Turret"
+		image_set_id="9089" image_id="4040" image_path="/files/ps2/images/static/4040.png">
+		<name de="MANA-Gesch&#252;tzturm" en="MANA Anti-Personnel Turret"
+			es="Torreta antipersonal MANA" fr="Tourelle antipersonnel d&apos;ANAH"
+			it="Torretta antiuomo MANA" tr="MANA Anti-Personel Tareti" />
+		<description
+			de="Das MANA-Gesch&#252;tz(Manned Aggressor Neutralizing Assault) wird von Ingenieuren eingesetzt und ist gegen leicht und mittelschwer gepanzerte Ziele effektiv."
+			en="MANA (Manned Aggressor Neutralizing Assault) Anti-Personnel turret is deployed by engineers and is effective against soft and medium armored targets."
+			es="La torreta antipersonal MANA (pilotada neutralizadora de agresores en asaltos) es usada por ingenieros y es eficaz contra objetivos con blindaje ligero y medio."
+			fr="La tourelle d&apos;ANAH antipersonnel (Assaut neutralisant agressif habit&#233;) est d&#233;ploy&#233;e par les ing&#233;nieurs et est efficace contre les cibles blind&#233;es de duret&#233; faible et moyenne."
+			it="La torretta d&apos;assalto antiuomo manuale neutralizza-aggressore MANA (Manned Aggressor Neutralizing Assault) viene dispiegata dai genieri ed &#232; efficace contro i bersagli morbidi o mediamente corazzati."
+			tr="MANA (&#304;nsanl&#305; Sald&#305;rgan Etkisizle&#351;tirme Taarruzu) anti-personel tareti, m&#252;hendisler taraf&#305;ndan mevzilendirilir ve hafif ve orta dereceli z&#305;rhl&#305; hedeflere kar&#351;&#305; etkilidir." />
+	</vehicle>
+	<vehicle vehicle_id="102" type_id="7" type_name="Umovable Turret"
+		image_set_id="7956" image_id="8053" image_path="/files/ps2/images/static/8053.png">
+		<name de="Fahrzeugabwehr-MANA-Gesch&#252;tzturm" en="MANA Anti-Vehicle Turret"
+			es="Torreta antiveh&#237;culos MANA" fr="Tourelle anti-v&#233;hicule d&apos;ANAH"
+			it="Torretta MANA anticarro" tr="MANA Ara&#231;-Savar Tareti" />
+		<description
+			de="Das MANA-Gesch&#252;tz (beMannter Aggressor Neutralisierungs Angriff) wird von Ingenieuren eingesetzt und ist wirksam gegen gro&#223;e, gepanzerte Ziele."
+			en="MANA (Manned Aggressor Neutralizing Assault) Anti-Vehicle turret is deployed by engineers and is effective against large armored targets."
+			es="MANA (Manned Aggressor Neutralizing Assault) Anti-Vehicle turret is deployed by engineers and is effective against large armored targets."
+			fr="La tourelle d&apos;ANAH (Assaut Neutralisant Agressif Habit&#233;) anti-v&#233;hicule est d&#233;ploy&#233;e par les ing&#233;nieurs et est efficace contre les grosses cibles blind&#233;es."
+			it="La torretta d&apos;assalto antiuomo manuale neutralizza-aggressore MANA (Manned Aggressor Neutralizing Assault) viene dispiegata dai genieri ed &#232; efficace contro i grandi bersagli corazzati."
+			tr="&#304;SET (&#304;nsanl&#305; Sald&#305;rgan Etkisizle&#351;tirme Taarruzu) Ara&#231;-Savar tareti m&#252;hendisleri taraf&#305;ndan kurulur ve geni&#351; z&#305;rhl&#305; hedeflere kar&#351;&#305; etkilidir." />
+	</vehicle>
+	<vehicle vehicle_id="103" type_id="7" type_name="Umovable Turret"
+		image_set_id="82962">
+		<name de="Spitfire-Auto-Gesch&#252;tz" en="Spitfire Auto-Turret"
+			es="Torreta autom&#225;tica Spitfire" fr="Tourelle automatique crache-feu"
+			it="Torretta automatica Spitfire" tr="Ate&#351; P&#252;sk&#252;ren Taret" />
+		<description
+			de="Die automatischen Spitfire-Gesch&#252;tze werden von Ingenieuren platziert und greifen feindliche Infanterie innerhalb von 50 Metern automatisch an."
+			en="Spitfire Auto-Turrets are placed by engineers and automatically engage hostile infantry within 50 meters."
+			es="Las torretas autom&#225;ticas Spitfire las colocan los ingenieros y entablan combate autom&#225;ticamente con la infanter&#237;a enemiga a un alcance de 50 metros."
+			fr="Les tourelles automatiques crache-feu sont plac&#233;es par les ing&#233;nieurs et engagent automatiquement le feu contre l&apos;infanterie hostile pr&#233;sente dans les 50 m&#232;tres."
+			it="Le torrette automatiche Spitfire vengono posizionate dai genieri ed entrano automaticamente in contatto con la fanteria nemica nel raggio di 50 metri." />
+	</vehicle>
+	<vehicle vehicle_id="150" type_id="7" type_name="Umovable Turret"
+		image_set_id="8487" image_id="4046" image_path="/files/ps2/images/static/4046.png">
+		<name de="Phalanx-Gesch&#252;tz &quot;Aspis&quot; (Flugabwehr)"
+			en="Aspis Phalanx Turret (Anti-Aircraft)" es="Torreta Phalanx Aspis (antia&#233;rea)"
+			fr="Tourelle Phalange &quot;Aspis&quot; (antia&#233;rienne)" it="Torretta Aspis Phalanx (antiaerea)"
+			tr="&quot;Aspis&quot; Havasavar Falanks Tareti" />
+		<description
+			de="Das Aspis-Phalanx-Gesch&#252;tz feuert 20mm explosive Projektile in den Himmel, welche dann in der N&#228;he der Flugzeuge explodieren."
+			en="The Aspis Phalanx Turret launches 20mm explosive shells into the sky that burst within proximity of aircraft."
+			es="La torreta Phalanx Aspis lanza al cielo proyectiles explosivos de 20 mm que explotan cuando est&#225;n dentro del radio de una aeronave."
+			fr="La tourelle Phalange anti-a&#233;rienne Aspis lance des obus explosifs de 20mm dans le ciel qui explosent &#224; proximit&#233; des a&#233;ronefs."
+			it="La torretta Aspis Phalanx lancia in aria proiettili esplosivi di 20mm che scoppiano in prossimit&#224; degli aerei."
+			tr="Aspis Falanks Tareti, u&#231;a&#287;&#305;n yak&#305;nlar&#305;nda patlayan 20mm patlay&#305;c&#305; fi&#351;ekleri g&#246;ky&#252;z&#252;ne ate&#351;ler." />
+	</vehicle>
+	<vehicle vehicle_id="151" type_id="7" type_name="Umovable Turret"
+		image_set_id="8489" image_id="4052" image_path="/files/ps2/images/static/4052.png">
+		<name de="Phalanx-Gesch&#252;tz &quot;Spear&quot; (Fahrzeugabwehr)"
+			en="Spear Phalanx Turret (Anti-Vehicle)" es="Torreta Phalanx Spear (antiveh&#237;culos)"
+			fr="Tourelle Phalange &quot;Spear&quot; (anti-v&#233;hicule)" it="Torretta Phalanx Spear (anticarro)"
+			tr="&quot;M&#305;zrak&quot; Ara&#231;-Savar Falanks Tareti" />
+		<description
+			de="Das Spear Phalanx-Gesch&#252;tz ist in der Lage, 120mm-PB-Panzermunition mit gro&#223;er Geschwindigkeit abzufeuern, was Schaden an schwer gepanzerten Zielen verursacht."
+			en="The Spear Phalanx Turret is capable of rapidly firing 120mm AP tank rounds capable of damaging heavily armored targets."
+			es="La torreta Phalanx Spear dispara r&#225;pidamente proyectiles antitanque AP de 120 mm capaces de da&#241;ar gravemente a los objetivos blindados."
+			fr="La tourelle Phalange Spear est capable de tirer rapidement des salves antiblindages qui infligent de gros d&#233;g&#226;ts aux cibles lourdement blind&#233;es."
+			it="La torretta Spear Phalanx spara velocemente proiettili perforanti antiveicolo AP da 120mm in grado infliggere gravi danni agli obiettivi pesantemente corazzati."
+			tr="M&#305;zrak Falanks Tareti, a&#287;&#305;r z&#305;rhl&#305; hedeflere hasar verebilecek 120mm AP tank mermilerini seri &#351;ekilde ate&#351;leyebilir." />
+	</vehicle>
+	<vehicle vehicle_id="1013" type_id="10" type_name="Observer Camera"
+		image_set_id="13098" image_id="13477" image_path="/files/ps2/images/static/13477.png">
+		<name de="Aufkl&#228;rungsdrohne" en="Recon Drone" es="VANT de reconocimiento"
+			fr="Drone de reconnaissance" it="Drone di ricognizione" tr="Recon Drone" />
+		<description
+			de="Eine ferngesteuerte Luftdrohne, die zur Auffindung von feindlichen Truppen benutzt werden."
+			en="A remote control aerial drone that can be used to spot enemy forces."
+			es="Un VANT teledirigido que puede usarse para detectar fuerzas enemigas."
+			fr="Un drone a&#233;rien t&#233;l&#233;guid&#233; pouvant &#234;tre utilis&#233; pour localiser les forces ennemies."
+			it="Un drone a pilotaggio remoto che pu&#242; essere usato per rilevare le forze nemiche."
+			tr="A remote control aerial drone that can be used to spot enemy forces." />
+	</vehicle>
+</vehicle_list>

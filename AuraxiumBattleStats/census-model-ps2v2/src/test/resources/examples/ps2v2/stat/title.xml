@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<title_list limit="0" returned="3" milliseconds="0" seconds="0.0">
+	<title title_id="1">
+		<name de="Private" en="Private" es="Soldado raso" fr="Soldat" it="Soldato"
+			tr="Er" />
+	</title>
+	<title title_id="2">
+		<name de="PFC" en="PFC" es="Soldado de 1.&#170; clase" fr="Sdt 1cl"
+			it="PFC" tr="Er" />
+	</title>
+	<title title_id="3">
+		<name de="Spezialist" en="Specialist" es="Especialista" fr="Sp&#233;cialiste"
+			it="Specialista" tr="Uzman" />
+	</title>
+</title_list>

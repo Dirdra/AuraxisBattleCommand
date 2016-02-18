@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_directive_objective_list
+	limit="0" returned="2" milliseconds="0" seconds="0.0">
+	<characters_directive_objective
+		character_id="5428010618025174977" directive_id="1837"
+		objective_group_id="13507" objective_id="13507" state_data="1" status="1" />
+	<characters_directive_objective
+		character_id="5428010618030932993" directive_id="1576"
+		objective_group_id="13245" objective_id="13245" state_data="2" status="1" />
+</characters_directive_objective_list>

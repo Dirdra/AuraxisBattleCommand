@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<region_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<region initial_faction_id="2" region_id="2101" zone_id="2">
+		<name de="Hvar" en="Hvar" es="Hvar" fr="Hvar" it="Hvar" tr="Hvar" />
+	</region>
+	<region initial_faction_id="1" region_id="2102" zone_id="2">
+		<name de="Mao" en="Mao" es="Mao" fr="Mao" it="Mao" tr="Mao" />
+	</region>
+	<region initial_faction_id="2" region_id="2103" zone_id="2">
+		<name de="Allatum" en="Allatum" es="Allatum" fr="Allatum" it="Allatum"
+			tr="Allatum" />
+	</region>
+</region_list>

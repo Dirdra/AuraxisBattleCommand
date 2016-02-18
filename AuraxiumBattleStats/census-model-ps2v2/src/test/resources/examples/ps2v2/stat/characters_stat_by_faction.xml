@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_stat_by_faction_list limit="0"
+	returned="2" milliseconds="0" seconds="0.0">
+	<characters_stat_by_faction character_id="5428010618015187665"
+		last_save="1353400768" last_save_date="2012-11-20 08:39:28.185246"
+		profile_id="7" stat_name="kills" value_daily_nc="1" value_daily_tr="0"
+		value_daily_vs="0" value_forever_nc="1" value_forever_tr="0"
+		value_forever_vs="0" value_monthly_nc="1" value_monthly_tr="0"
+		value_monthly_vs="0" value_one_life_max_nc="1" value_one_life_max_tr="0"
+		value_one_life_max_vs="0" value_weekly_nc="1" value_weekly_tr="0"
+		value_weekly_vs="0" />
+	<characters_stat_by_faction character_id="5428010618015187665"
+		last_save="1353400768" last_save_date="2012-11-20 08:39:28.184636"
+		profile_id="3" stat_name="deaths" value_daily_nc="0" value_daily_tr="0"
+		value_daily_vs="7" value_forever_nc="0" value_forever_tr="0"
+		value_forever_vs="7" value_monthly_nc="0" value_monthly_tr="0"
+		value_monthly_vs="7" value_one_life_max_nc="0" value_one_life_max_tr="0"
+		value_one_life_max_vs="1" value_weekly_nc="0" value_weekly_tr="0"
+		value_weekly_vs="7" />
+</characters_stat_by_faction_list>

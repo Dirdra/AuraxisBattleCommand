@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="characters_stat_by_faction_list" type="characters_stat_by_faction_list"></xsd:element>
+	
+	<xsd:complexType name="characters_stat_by_faction_list">
+		<xsd:sequence>
+			<xsd:element name="characters_stat_by_faction" type="characters_stat_by_faction" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="characters_stat_by_faction">
+		<xsd:attribute ref="character_id"></xsd:attribute>
+		<xsd:attribute ref="last_save"></xsd:attribute>
+		<xsd:attribute ref="last_save_date"></xsd:attribute>
+		<xsd:attribute ref="profile_id"></xsd:attribute>
+		<xsd:attribute name="stat_name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="value_daily_nc" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_daily_tr" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_daily_vs" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_forever_nc" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_forever_tr" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_forever_vs" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_monthly_nc" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_monthly_tr" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_monthly_vs" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_one_life_max_nc" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_one_life_max_tr" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_one_life_max_vs" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_weekly_nc" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_weekly_tr" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="value_weekly_vs" type="xsd:int"></xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="world_stat_history_list">
+		<xsd:sequence>
+			<xsd:element name="world_stat_history" type="world_stat_history" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="world_stat_history">
+		<xsd:sequence>
+			<xsd:element name="day" type="stat_day_type"></xsd:element>
+			<xsd:element name="month" type="stat_month_type"></xsd:element>
+			<xsd:element name="week" type="stat_week_type"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attribute name="all_time" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="faction" type="xsd:string"></xsd:attribute> <!-- TODO restriction on enueration??? -->
+		<xsd:attribute name="last_save"  type="xsd:long"></xsd:attribute>
+		<xsd:attribute name="last_save_date" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="stat_name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="tracker_name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="type" type="xsd:string"></xsd:attribute> <!--  TODO restriction on enumeration??? -->
+		<xsd:attribute ref="world_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="world_stat_history_list" type="world_stat_history_list"></xsd:element>
+</xsd:schema>

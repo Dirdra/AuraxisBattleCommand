@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weapon_to_fire_group_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<weapon_to_fire_group fire_group_id="1"
+		fire_group_index="0" weapon_id="1" />
+	<weapon_to_fire_group fire_group_id="7"
+		fire_group_index="1" weapon_id="1" />
+	<weapon_to_fire_group fire_group_id="2"
+		fire_group_index="0" weapon_id="2" />
+</weapon_to_fire_group_list>

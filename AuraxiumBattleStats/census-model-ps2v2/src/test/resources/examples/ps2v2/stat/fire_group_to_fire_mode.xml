@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fire_group_to_fire_mode_list limit="0"
+	returned="3" milliseconds="0" seconds="0.0">
+	<fire_group_to_fire_mode fire_group_id="1"
+		fire_mode_id="1" fire_mode_index="0" />
+	<fire_group_to_fire_mode fire_group_id="2"
+		fire_mode_id="2" fire_mode_index="0" />
+	<fire_group_to_fire_mode fire_group_id="2"
+		fire_mode_id="102" fire_mode_index="1" />
+</fire_group_to_fire_mode_list>

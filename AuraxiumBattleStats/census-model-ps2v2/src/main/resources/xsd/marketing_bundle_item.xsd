@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="marketing_bundle_item_list">
+		<xsd:sequence>
+			<xsd:element name="marketing_bundle_item" type="marketing_bundle_item" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="marketing_bundle_item">
+		<xsd:attribute ref="item_id"></xsd:attribute>
+		<xsd:attribute ref="marketing_bundle_id"></xsd:attribute>
+		<xsd:attribute name="quantity" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="release_time" type="xsd:long"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="marketing_bundle_item_list" type="marketing_bundle_item_list"></xsd:element>
+</xsd:schema>

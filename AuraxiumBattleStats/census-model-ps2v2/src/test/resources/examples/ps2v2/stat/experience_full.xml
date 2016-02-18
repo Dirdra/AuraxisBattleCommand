@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<experience_list limit="0" returned="378" milliseconds="0"
+	seconds="0.0">
+	<experience experience_id="1" description="Kill Player" />
+	<experience experience_id="2" description="Kill Player Assist" />
+	<experience experience_id="3" description="Kill Player Spawn Assist" />
+	<experience experience_id="4" description="Heal Player" />
+	<experience experience_id="5" description="Heal Assist" />
+	<experience experience_id="6" description="MAX Repair" />
+	<experience experience_id="7" description="Revive" />
+	<experience experience_id="8" description="Kill Streak" />
+	<experience experience_id="10" description="Domination Kill" />
+	<experience experience_id="11" description="Revenge Kill" />
+	<experience experience_id="15" description="Control Point - Defend" />
+	<experience experience_id="16" description="Control Point - Attack" />
+	<experience experience_id="19" description="Facility Captured (Not Used)" />
+	<experience experience_id="21" description="Destroy Secondary Objective" />
+	<experience experience_id="22" description="Destroy SecondaryObjectiveAssist" />
+	<experience experience_id="24" description="Vehicle Destruction - Flash" />
+	<experience experience_id="25" description="Multiple Kill" />
+	<experience experience_id="26" description="Vehicle RoadKill" />
+	<experience experience_id="28" description="Squad Repair - Flash" />
+	<experience experience_id="29" description="Kill Player Class MAX" />
+	<experience experience_id="30" description="Transport Assist" />
+	<experience experience_id="31" description="Vehicle Repair - Flash" />
+	<experience experience_id="32" description="Nemesis Kill" />
+	<experience experience_id="34" description="Resupply Player" />
+	<experience experience_id="36" description="Spot Kill" />
+	<experience experience_id="37" description="Headshot" />
+	<experience experience_id="38" description="Stop Kill Streak" />
+	<experience experience_id="47" description="Meta Game Event reward" />
+	<experience experience_id="51" description="Squad Heal" />
+	<experience experience_id="53" description="Squad Revive" />
+	<experience experience_id="54" description="Squad Spot Kill" />
+	<experience experience_id="55" description="Squad Resupply" />
+	<experience experience_id="56" description="Squad Spawn" />
+	<experience experience_id="57" description="Destroy Engineer Turret" />
+	<experience experience_id="58" description="Vehicle Destruction - Phalanx" />
+	<experience experience_id="59" description="Vehicle Destruction - Drop Pod" />
+	<experience experience_id="60" description="Vehicle Destruction - Galaxy" />
+	<experience experience_id="61" description="Vehicle Destruction - Liberator" />
+	<experience experience_id="62" description="Vehicle Destruction - Lightning" />
+	<experience experience_id="63" description="Vehicle Destruction - Magrider" />
+	<experience experience_id="64" description="Vehicle Destruction - Mosquito" />
+	<experience experience_id="65" description="Vehicle Destruction - Prowler" />
+	<experience experience_id="66" description="Vehicle Destruction - Reaver" />
+	<experience experience_id="67" description="Vehicle Destruction - Scythe" />
+	<experience experience_id="68" description="Vehicle Destruction - Sunderer" />
+	<experience experience_id="69" description="Vehicle Destruction - Vanguard" />
+	<experience experience_id="72" description="Vehicle Ram Bonus" />
+	<experience experience_id="73" description="Vehicle Ram Kill - Engi Turret" />
+	<experience experience_id="74" description="Vehicle Ram Kill - Phalanx" />
+	<experience experience_id="75" description="Vehicle Ram Kill - Drop Pod" />
+	<experience experience_id="76" description="Vehicle Ram Kill - Galaxy" />
+	<experience experience_id="77" description="Vehicle Ram Kill - Liberator" />
+	<experience experience_id="78" description="Vehicle Ram Kill - Lightning" />
+	<experience experience_id="79" description="Vehicle Ram Kill - Magrider" />
+	<experience experience_id="80" description="Vehicle Ram Kill - Mosquito" />
+	<experience experience_id="81" description="Vehicle Ram Kill - Prowler" />
+	<experience experience_id="82" description="Vehicle Ram Kill - Reaver" />
+	<experience experience_id="83" description="Vehicle Ram Kill - Scythe" />
+	<experience experience_id="84" description="Vehicle Ram Kill - Sunderer" />
+	<experience experience_id="85" description="Vehicle Ram Kill - Vanguard" />
+	<experience experience_id="86" description="Explosive Destruction" />
+	<experience experience_id="87" description="Secondary Facility Object Repair" />
+	<experience experience_id="88" description="Vehicle Repair - Engi Turret" />
+	<experience experience_id="89" description="Vehicle Repair - Phalanx" />
+	<experience experience_id="90" description="Vehicle Repair - Drop Pod" />
+	<experience experience_id="91" description="Vehicle Repair - Galaxy" />
+	<experience experience_id="92" description="Vehicle Repair - Liberator" />
+	<experience experience_id="93" description="Vehicle Repair - Lightning" />
+	<experience experience_id="94" description="Vehicle Repair - Magrider" />
+	<experience experience_id="95" description="Vehicle Repair - Mosquito" />
+	<experience experience_id="96" description="Vehicle Repair - Prowler" />
+	<experience experience_id="97" description="Vehicle Repair - Reaver" />
+	<experience experience_id="98" description="Vehicle Repair - Scythe" />
+	<experience experience_id="99" description="Vehicle Repair - Sunderer" />
+	<experience experience_id="100" description="Vehicle Repair - Vanguard" />
+	<experience experience_id="101" description="Kill Assist - Flash" />
+	<experience experience_id="102" description="Kill Assist - Engi Turret" />
+	<experience experience_id="103" description="Kill Assist - Phalanx" />
+	<experience experience_id="104" description="Kill Assist - Drop Pod" />
+	<experience experience_id="105" description="Kill Assist - Galaxy" />
+	<experience experience_id="106" description="Kill Assist - Liberator" />
+	<experience experience_id="107" description="Kill Assist - Lightning" />
+	<experience experience_id="108" description="Kill Assist - Magrider" />
+	<experience experience_id="109" description="Kill Assist - Mosquito" />
+	<experience experience_id="110" description="Kill Assist - Prowler" />
+	<experience experience_id="111" description="Kill Assist - Reaver" />
+	<experience experience_id="112" description="Kill Assist - Scythe" />
+	<experience experience_id="113" description="Kill Assist - Sunderer" />
+	<experience experience_id="114" description="Kill Assist - Vanguard" />
+	<experience experience_id="129" description="Squad Repair - Engi Turret" />
+	<experience experience_id="130" description="Squad Repair - Phalanx" />
+	<experience experience_id="131" description="Squad Repair - Drop Pod" />
+	<experience experience_id="132" description="Squad Repair - Galaxy" />
+	<experience experience_id="133" description="Squad Repair - Liberator" />
+	<experience experience_id="134" description="Squad Repair - Lightning" />
+	<experience experience_id="135" description="Squad Repair - Magrider" />
+	<experience experience_id="136" description="Squad Repair - Mosquito" />
+	<experience experience_id="137" description="Squad Repair - Prowler" />
+	<experience experience_id="138" description="Squad Repair - Reaver" />
+	<experience experience_id="139" description="Squad Repair - Scythe" />
+	<experience experience_id="140" description="Squad Repair - Sunderer" />
+	<experience experience_id="141" description="Squad Repair - Vanguard" />
+	<experience experience_id="142" description="Squad MAX Repair" />
+	<experience experience_id="143" description="Drop Pod Kill" />
+	<experience experience_id="146" description="Player Kill by Sunderer Gunner" />
+	<experience experience_id="148" description="Player Kill by Magrider Gunner" />
+	<experience experience_id="149" description="Player Kill by Vanguard Gunner" />
+	<experience experience_id="150" description="Player Kill by Prowler Gunner" />
+	<experience experience_id="154" description="Player Kill by Liberator Gunner" />
+	<experience experience_id="155" description="Player Kill by Galaxy Gunner" />
+	<experience experience_id="159" description="Flash Kill by Sunderer Gunner" />
+	<experience experience_id="160" description="Sunderer Kill by Sunderer Gunner" />
+	<experience experience_id="161" description="Lightning Kill by Sunderer Gunne" />
+	<experience experience_id="162" description="Magrider Kill by Sunderer Gunner" />
+	<experience experience_id="163" description="Vanguard Kill by Sunderer Gunner" />
+	<experience experience_id="164" description="Prowler Kill by Sunderer Gunner" />
+	<experience experience_id="165" description="Scythe Kill by Sunderer Gunner" />
+	<experience experience_id="166" description="Reaver Kill by Sunderer Gunner" />
+	<experience experience_id="167" description="Mosquito Kill by Sunderer Gunner" />
+	<experience experience_id="168" description="Lib Kill by Sunderer" />
+	<experience experience_id="169" description="Galaxy Kill by Sunderer Gunner" />
+	<experience experience_id="181" description="Flash Kill by Magrider Gunner" />
+	<experience experience_id="182" description="Sunderer Kill by Magrider Gunner" />
+	<experience experience_id="183" description="Lightning Kill by Magrider Gunne" />
+	<experience experience_id="184" description="Vanguard Kill by Magrider Gunner" />
+	<experience experience_id="185" description="Prowler Kill by Magrider Gunner" />
+	<experience experience_id="186" description="Reaver Kill by Magrider Gunner" />
+	<experience experience_id="187" description="Mosquito Kill by Magrider Gunner" />
+	<experience experience_id="188" description="Lib Kill by Magrider" />
+	<experience experience_id="189" description="Galaxy Kill by Magrider Gunner" />
+	<experience experience_id="190" description="Flash Kill by Vanguard Gunner" />
+	<experience experience_id="191" description="Sunderer Kill by Vanguard Gunner" />
+	<experience experience_id="192" description="Lightning Kill by Vanguard Gunne" />
+	<experience experience_id="193" description="Magrider Kill by Vanguard Gunner" />
+	<experience experience_id="195" description="Prowler Kill by Vanguard Gunner" />
+	<experience experience_id="196" description="Scythe Kill by Vanguard Gunner" />
+	<experience experience_id="197" description="Mosquito Kill by Vanguard Gunner" />
+	<experience experience_id="198" description="Lib Kill by Vanguard" />
+	<experience experience_id="199" description="Galaxy Kill by Vanguard Gunner" />
+	<experience experience_id="200" description="Flash Kill by Prowler Gunner" />
+	<experience experience_id="201" description="Galaxy Spawn Bonus" />
+	<experience experience_id="202" description="Sunderer Kill by Prowler Gunner" />
+	<experience experience_id="203" description="Lightning Kill by Prowler Gunner" />
+	<experience experience_id="204" description="Magrider Kill by Prowler Gunner" />
+	<experience experience_id="205" description="Vanguard Kill by Prowler Gunner" />
+	<experience experience_id="207" description="Scythe Kill by Prowler Gunner" />
+	<experience experience_id="208" description="Reaver Kill by Prowler Gunner" />
+	<experience experience_id="209" description="Liberator Kill by Prowler Gunner" />
+	<experience experience_id="210" description="Galaxy Kill by Prowler Gunner" />
+	<experience experience_id="211" description="Flash Kill by Liberator Gunner" />
+	<experience experience_id="212" description="Sunderer Kill by Lib Gunner" />
+	<experience experience_id="213" description="Lightning Kill by Liberator Gunn" />
+	<experience experience_id="214" description="Magrider Kill by Lib Gunner" />
+	<experience experience_id="215" description="Vanguard Kill by Lib Gunner" />
+	<experience experience_id="216" description="Prowler Kill by Liberator Gunner" />
+	<experience experience_id="217" description="Scythe Kill by Liberator Gunner" />
+	<experience experience_id="218" description="Reaver Kill by Liberator Gunner" />
+	<experience experience_id="219" description="Mosquito Kill by Lib Gunner" />
+	<experience experience_id="220" description="Lib Kill by Liberator" />
+	<experience experience_id="221" description="Galaxy Kill by Liberator Gunner" />
+	<experience experience_id="222" description="Flash Kill by Galaxy Gunner" />
+	<experience experience_id="223" description="Sunderer Kill by Galaxy Gunner" />
+	<experience experience_id="224" description="Lightning Kill by Galaxy Gunner" />
+	<experience experience_id="225" description="Magrider Kill by Galaxy Gunner" />
+	<experience experience_id="226" description="Vanguard Kill by Galaxy Gunner" />
+	<experience experience_id="227" description="Prowler Kill by Galaxy Gunner" />
+	<experience experience_id="228" description="Scythe Kill by Galaxy Gunner" />
+	<experience experience_id="229" description="Reaver Kill by Galaxy Gunner" />
+	<experience experience_id="230" description="Mosquito Kill by Galaxy Gunner" />
+	<experience experience_id="231" description="LibKill by Galaxy Gunner" />
+	<experience experience_id="232" description="Galaxy Kill by Galaxy Gunner" />
+	<experience experience_id="233" description="Sunderer Spawn Bonus" />
+	<experience experience_id="234" description="Facility placed bomb" />
+	<experience experience_id="235" description="Facility defused bomb" />
+	<experience experience_id="236" description="Facility Terminal Hack" />
+	<experience experience_id="237" description="Facility Turret Hack" />
+	<experience experience_id="240" description="Vehicle Resupply" />
+	<experience experience_id="241" description="Squad Vehicle Resupply" />
+	<experience experience_id="242" description="Spot Kill - Flash" />
+	<experience experience_id="243" description="Spot Kill - Engi Turret" />
+	<experience experience_id="244" description="Spot Kill - Phalanx" />
+	<experience experience_id="245" description="Spot Kill - Drop Pod" />
+	<experience experience_id="246" description="Spot Kill - Galaxy" />
+	<experience experience_id="247" description="Spot Kill - Liberator" />
+	<experience experience_id="248" description="Spot Kill - Lightning" />
+	<experience experience_id="249" description="Spot Kill - Magrider" />
+	<experience experience_id="250" description="Spot Kill - Mosquito" />
+	<experience experience_id="251" description="Spot Kill - Prowler" />
+	<experience experience_id="252" description="Spot Kill - Reaver" />
+	<experience experience_id="253" description="Spot Kill - Scythe" />
+	<experience experience_id="254" description="Spot Kill - Sunderer" />
+	<experience experience_id="255" description="Spot Kill - Vanguard" />
+	<experience experience_id="256" description="Squad Spot Kill - Flash" />
+	<experience experience_id="257" description="Squad Spot Kill - Engi Turret" />
+	<experience experience_id="258" description="Squad Spot Kill - Phalanx" />
+	<experience experience_id="259" description="Squad Spot Kill - Drop Pod" />
+	<experience experience_id="260" description="Squad Spot Kill - Galaxy" />
+	<experience experience_id="261" description="Squad Spot Kill - Liberator" />
+	<experience experience_id="262" description="Squad Spot Kill - Lightning" />
+	<experience experience_id="263" description="Squad Spot Kill - Magrider" />
+	<experience experience_id="264" description="Squad Spot Kill - Mosquito" />
+	<experience experience_id="265" description="Squad Spot Kill - Prowler" />
+	<experience experience_id="266" description="Squad Spot Kill - Reaver" />
+	<experience experience_id="267" description="Squad Spot Kill - Scythe" />
+	<experience experience_id="268" description="Squad Spot Kill - Sunderer" />
+	<experience experience_id="269" description="Squad Spot Kill - Vanguard" />
+	<experience experience_id="270" description="Squad Spawn Beacon Kill" />
+	<experience experience_id="272" description="Convert Capture Point" />
+	<experience experience_id="275" description="Terminal Kill" />
+	<experience experience_id="276" description="Terminal Repair" />
+	<experience experience_id="277" description="Spawn Kill" />
+	<experience experience_id="278" description="Priority Kill" />
+	<experience experience_id="279" description="High Priority Kill" />
+	<experience experience_id="283" description="Galaxy Damage" />
+	<experience experience_id="284" description="Liberator Damage" />
+	<experience experience_id="286" description="Mosquito Damage" />
+	<experience experience_id="287" description="Reaver Damage" />
+	<experience experience_id="288" description="Scythe Damage" />
+	<experience experience_id="291" description="Ribbon Experience" />
+	<experience experience_id="293" description="Motion Detect" />
+	<experience experience_id="294" description="Squad Motion Spot" />
+	<experience experience_id="300" description="Vehicle Ram Kill - Harasser" />
+	<experience experience_id="301" description="Vehicle Destruction - Harasser" />
+	<experience experience_id="302" description="Squad Repair - Harasser" />
+	<experience experience_id="303" description="Vehicle Repair - Harasser" />
+	<experience experience_id="304" description="Kill Assist - Harasser" />
+	<experience experience_id="306" description="Spot Kill - Harasser" />
+	<experience experience_id="307" description="Squad Spot Kill - Harasser" />
+	<experience experience_id="308" description="Harasser Kill by Sunderer Gunne" />
+	<experience experience_id="309" description="Harasser Kill by Magrider Gunne" />
+	<experience experience_id="310" description="Harasser Kill by Vanguard Gunne" />
+	<experience experience_id="311" description="Harasser Kill by Prowler Gunner" />
+	<experience experience_id="312" description="Harasser Kill by Liberator Gunn" />
+	<experience experience_id="313" description="Harasser Kill by Galaxy Gunner" />
+	<experience experience_id="314" description="Player Kill by Harasser Gunner" />
+	<experience experience_id="315" description="Flash Kill by Harasser Gunner" />
+	<experience experience_id="316" description="Sunderer Kill by Harasser Gunner" />
+	<experience experience_id="317" description="Lightning Kill by Harasser Gunne" />
+	<experience experience_id="318" description="Vanguard Kill by Harasser Gunner" />
+	<experience experience_id="319" description="Prowler Kill by Harasser Gunner" />
+	<experience experience_id="320" description="Reaver Kill by Harasser Gunner" />
+	<experience experience_id="321" description="Mosquito Kill by Harasser Gunner" />
+	<experience experience_id="322" description="Lib Kill by Harasser" />
+	<experience experience_id="323" description="Galaxy Kill by Harasser Gunner" />
+	<experience experience_id="324" description="Harasser Kill by Harasser Gunner" />
+	<experience experience_id="325" description="Magrider Kill by Harasser Gunner" />
+	<experience experience_id="326" description="Scythe Kill by Harasser Gunner" />
+	<experience experience_id="327" description="Tank Mine Despawn/Defusal" />
+	<experience experience_id="328" description="Alert Reward" />
+	<experience experience_id="329" description="Tank Hunter Bonus - Prowler Kill" />
+	<experience experience_id="330" description="Tank Hunter Bonus - Magrider Kil" />
+	<experience experience_id="331" description="Dogfighter Bonus - Mosquito Kill" />
+	<experience experience_id="332" description="Dogfighter Bonus - Reaver Kill" />
+	<experience experience_id="333" description="Dogfighter Bonus - Scythe Kill" />
+	<experience experience_id="334" description="Tank Hunter Bonus - Vanguard Kil" />
+	<experience experience_id="335" description="Savior Kill (Non MAX)" />
+	<experience experience_id="336" description="Saved" />
+	<experience experience_id="337" description="Holiday Event NPC: Kill" />
+	<experience experience_id="338" description="Holiday Event NPC Gold: Kill" />
+	<experience experience_id="339" description="Snowman Kill by Sunderer Gunner" />
+	<experience experience_id="340" description="Snowman Kill by Magrider Gunner" />
+	<experience experience_id="341" description="Snowman Kill by Vanguard Gunner" />
+	<experience experience_id="342" description="Snowman Kill by Prowler Gunner" />
+	<experience experience_id="343" description="Snowman Kill by Liberator Gunner" />
+	<experience experience_id="344" description="Snowman Kill by Galaxy Gunner" />
+	<experience experience_id="345" description="Snowman Kill by Harasser Gunner" />
+	<experience experience_id="346" description="GSnowman Kill by Sunder Gunner" />
+	<experience experience_id="347" description="GSnowman Kill by Mag Gunner" />
+	<experience experience_id="348" description="GSnowman Kill by Vang Gunner" />
+	<experience experience_id="349" description="GSnowman Kill by Prow Gunner" />
+	<experience experience_id="350" description="GSnowman Kill by Lib Gunner" />
+	<experience experience_id="351" description="GSnowman Kill by Gal Gunner" />
+	<experience experience_id="352" description="GSnowman Kill by Haras Gunner" />
+	<experience experience_id="353" description="Scout Radar Detect" />
+	<experience experience_id="354" description="Squad Scout Radar Detect" />
+	<experience experience_id="355" description="Squad Vehicle Spawn Bonus" />
+	<experience experience_id="356" description="Vehicle Ram Kill - R Drone" />
+	<experience experience_id="357" description="Vehicle Destruction - R Drone" />
+	<experience experience_id="358" description="Squad Repair - R Drone" />
+	<experience experience_id="359" description="Vehicle Repair - R Drone" />
+	<experience experience_id="360" description="Kill Assist - R Drone" />
+	<experience experience_id="362" description="R Drone Kill by Harasser Gunner" />
+	<experience experience_id="363" description="R Drone Kill by Sunderer Gunner" />
+	<experience experience_id="364" description="R Drone Kill by Magrider Gunner" />
+	<experience experience_id="365" description="R Drone Kill by Prowler Gunner" />
+	<experience experience_id="366" description="R Drone Kill by Lib Gunner" />
+	<experience experience_id="367" description="R Drone Kill by Galaxy Gunner" />
+	<experience experience_id="368" description="Spot Kill - R Drone" />
+	<experience experience_id="369" description="Squad Spot Kill - R Drone" />
+	<experience experience_id="370" description="Motion Sensor Spotter Kill" />
+	<experience experience_id="371" description="Kill Player Priority Assist" />
+	<experience experience_id="372" description="Kill Player High Priority Assist" />
+	<experience experience_id="437" description="Shield Regen Tool Kill" />
+	<experience experience_id="438" description="Shield Repair" />
+	<experience experience_id="439" description="Squad Shield Repair" />
+	<experience experience_id="440" description="Chain Expl Assist: Infantry" />
+	<experience experience_id="441" description="Chain Expl Assist: Flash" />
+	<experience experience_id="501" description="Vehicle Destruction - Valkyrie" />
+	<experience experience_id="502" description="Vehicle Ram Kill - Valkyrie" />
+	<experience experience_id="503" description="Vehicle Repair - Valkyrie" />
+	<experience experience_id="504" description="Kill Assist - Valkyrie" />
+	<experience experience_id="505" description="Squad Repair - Valkyrie" />
+	<experience experience_id="506" description="Spot Kill - Valkyrie" />
+	<experience experience_id="507" description="Squad Spot Kill - Valkyrie" />
+	<experience experience_id="508" description="Valkyrie Damage" />
+	<experience experience_id="509" description="Valkyrie Kill by Sunderer Gunner" />
+	<experience experience_id="510" description="Valkyrie Kill by Magrider Gunner" />
+	<experience experience_id="511" description="Valkyrie Kill by Vanguard Gunner" />
+	<experience experience_id="512" description="Valkyrie Kill by Prowler Gunner" />
+	<experience experience_id="513"
+		description="Valkyrie Kill by Liberator Gunner" />
+	<experience experience_id="514" description="Valkyrie Kill by Galaxy Gunner" />
+	<experience experience_id="515" description="Player Kill by Valkyrie Gunner" />
+	<experience experience_id="520" description="Flash Kill by Valkyrie Gunner" />
+	<experience experience_id="521" description="Sunderer Kill by Valkyrie Gunner" />
+	<experience experience_id="522" description="Lightning Kill by Valkyrie Gunne" />
+	<experience experience_id="523" description="Vanguard Kill by Valkyrie Gunner" />
+	<experience experience_id="524" description="Prowler Kill by Valkyrie Gunner" />
+	<experience experience_id="525" description="Reaver Kill by Valkyrie Gunner" />
+	<experience experience_id="526" description="Mosquito Kill by Valkyrie Gunner" />
+	<experience experience_id="527" description="Lib Kill by Valkyrie" />
+	<experience experience_id="528" description="Galaxy Kill by Valkyrie Gunner" />
+	<experience experience_id="529" description="Magrider Kill by Valkyrie Gunner" />
+	<experience experience_id="530" description="Scythe Kill by Valkyrie Gunner" />
+	<experience experience_id="531" description="Snowman Kill by Valkyrie Gunner" />
+	<experience experience_id="532" description="R Drone Kill by Valkyrie Gunner" />
+	<experience experience_id="533" description="Valkyrie Kill by Valkyrie Gunner" />
+	<experience experience_id="534" description="Chain Expl Assist: Phalanx" />
+	<experience experience_id="535" description="Chain Expl Assist: Drop Pod" />
+	<experience experience_id="536" description="Chain Expl Assist: Galaxy" />
+	<experience experience_id="537" description="Chain Expl Assist: Liberator" />
+	<experience experience_id="538" description="Chain Expl Assist: Lightning" />
+	<experience experience_id="539" description="Chain Expl Assist: Magrider" />
+	<experience experience_id="540" description="Chain Expl Assist: Mosquito" />
+	<experience experience_id="541" description="Chain Expl Assist: Prowler" />
+	<experience experience_id="542" description="Chain Expl Assist: Reaver" />
+	<experience experience_id="543" description="Chain Expl Assist: Scythe" />
+	<experience experience_id="544" description="Chain Expl Assist: Sunderer" />
+	<experience experience_id="545" description="Chain Expl Assist: Vanguard" />
+	<experience experience_id="546" description="Chain Expl Assist: Harasser" />
+	<experience experience_id="547" description="Chain Expl Assist: R Drone" />
+	<experience experience_id="548" description="Chain Expl Assist: Valkyrie" />
+	<experience experience_id="550" description="Concussion Grenade Assist" />
+	<experience experience_id="551" description="Concussion Grenade Squad Assist" />
+	<experience experience_id="552" description="EMP Grenade Assist" />
+	<experience experience_id="553" description="EMP Grenade Squad Assist" />
+	<experience experience_id="554" description="Flashbang Assist" />
+	<experience experience_id="555" description="Flashbang Squad Assist" />
+	<experience experience_id="556" description="Objective Pulse Defend" />
+	<experience experience_id="557" description="Objective Pulse Capture" />
+	<experience experience_id="558" description="Halloween Event NPC GreatP: Kill" />
+	<experience experience_id="559" description="Pumpkin Kill by Valkyrie Gunner" />
+	<experience experience_id="560" description="Pumpkin Kill by Sunderer Gunner" />
+	<experience experience_id="561" description="Pumpkin Kill by Magrider Gunner" />
+	<experience experience_id="562" description="Pumpkin Kill by Vanguard Gunner" />
+	<experience experience_id="563" description="Pumpkin Kill by Prowler Gunner" />
+	<experience experience_id="564" description="Pumpkin Kill by Liberator Gunner" />
+	<experience experience_id="565" description="Pumpkin Kill by Galaxy Gunner" />
+	<experience experience_id="566" description="Pumpkin Kill by Harasser Gunner" />
+	<experience experience_id="567" description="GPumpkin Kill by Sunder Gunner" />
+	<experience experience_id="568" description="GPumpkin Kill by Mag Gunner" />
+	<experience experience_id="569" description="GPumpkin Kill by Vang Gunner" />
+	<experience experience_id="570" description="GPumpkin Kill by Prow Gunner" />
+	<experience experience_id="571" description="GPumpkin Kill by Lib Gunner" />
+	<experience experience_id="572" description="GPumpkin Kill by Gal Gunner" />
+	<experience experience_id="573" description="GPumpkin Kill by Haras Gunner" />
+	<experience experience_id="574" description="Halloween Event NPC: Kill" />
+	<experience experience_id="575" description="Harasser Kill by Valkyrie Gunner" />
+	<experience experience_id="576" description="Valkyrie Kill by Harasser Gunner" />
+	<experience experience_id="577" description="Snowman kill by squad member" />
+	<experience experience_id="578" description="Gsnowman kill by squad member" />
+	<experience experience_id="579" description="Destroy Spitfire Turret" />
+	<experience experience_id="580"
+		description="Vehicle Ram Kill - Spitfire Turret" />
+	<experience experience_id="581" description="Vehicle Repair - Spitfire Turret" />
+	<experience experience_id="582" description="Kill Assist - Spitfire Turret" />
+	<experience experience_id="584" description="Squad Repair - Spitfire Turret" />
+	<experience experience_id="585" description="Spot Kill - Spitfire Turret" />
+	<experience experience_id="586"
+		description="Squad Spot Kill - Spitfire Turret" />
+	<experience experience_id="592" description="Savior Kill (MAX)" />
+</experience_list>

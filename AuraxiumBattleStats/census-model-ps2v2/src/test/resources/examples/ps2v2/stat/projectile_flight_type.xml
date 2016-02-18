@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<projectile_flight_type_list limit="0"
+	returned="3" milliseconds="0" seconds="0.0">
+	<projectile_flight_type description="Ballistic"
+		projectile_flight_type_id="1" />
+	<projectile_flight_type description="Dynamic"
+		projectile_flight_type_id="9" />
+	<projectile_flight_type description="Proximity Detonate"
+		projectile_flight_type_id="10" />
+</projectile_flight_type_list>

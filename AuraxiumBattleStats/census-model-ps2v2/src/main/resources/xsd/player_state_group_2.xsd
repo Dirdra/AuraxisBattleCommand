@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="player_state_group_2_list">
+		<xsd:sequence>
+			<xsd:element name="player_state_group_2" type="player_state_group_2" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="player_state_group_2">
+		<xsd:attribute name="can_iron_sight" type="xsd:short"></xsd:attribute>
+		<xsd:attribute name="cof_grow_rate" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="cof_max" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="cof_min" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="cof_recovery_delay_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_recovery_delay_threshold" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_recovery_rate" default="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_shots_before_penalty" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_turn_penalty" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="player_state_group_id"></xsd:attribute>
+		<xsd:attribute ref="player_state_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="player_state_group_2_list" type="player_state_group_2_list"></xsd:element>
+</xsd:schema>

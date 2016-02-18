@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="directive_tier_list" type="directive_tier_list"></xsd:element>
+	
+	<xsd:complexType name="directive_tier_list">
+		<xsd:sequence>
+			<xsd:element name="directive_tier" type="directive_tier" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="directive_tier">
+		<xsd:sequence>
+			<xsd:element name="name" type="directive_name"></xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="completion_count" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="directive_points" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="directive_tier_id"></xsd:attribute>
+		<xsd:attribute ref="directive_tree_id"></xsd:attribute>
+		<xsd:attribute ref="image_id"></xsd:attribute>
+		<xsd:attribute ref="image_path"></xsd:attribute>
+		<xsd:attribute ref="image_set_id"></xsd:attribute>
+		<xsd:attribute ref="reward_set_id"></xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

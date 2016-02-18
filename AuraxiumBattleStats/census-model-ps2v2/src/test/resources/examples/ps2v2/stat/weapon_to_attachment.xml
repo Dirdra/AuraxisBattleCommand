@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weapon_to_attachment_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<weapon_to_attachment attachment_id="100" item_id="63"
+		weapon_group_id="1" />
+	<weapon_to_attachment attachment_id="102" item_id="182"
+		weapon_group_id="1" />
+	<weapon_to_attachment attachment_id="103" item_id="184"
+		weapon_group_id="1" />
+</weapon_to_attachment_list>

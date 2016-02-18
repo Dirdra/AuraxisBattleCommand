@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<item_category_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<item_category item_category_id="2">
+		<name de="Messer" en="Knife" es="Cuchillo" fr="Couteau" it="Coltello"
+			tr="B&#305;&#231;ak" />
+	</item_category>
+	<item_category item_category_id="3">
+		<name de="Pistole" en="Pistol" es="Pistola" fr="Pistolet" it="Pistola"
+			tr="Tabanca" />
+	</item_category>
+	<item_category item_category_id="4">
+		<name de="Schrotflinte" en="Shotgun" es="Escopeta" fr="Fusil" it="Fucile"
+			tr="Pompal&#305; T&#252;fek" />
+	</item_category>
+</item_category_list>

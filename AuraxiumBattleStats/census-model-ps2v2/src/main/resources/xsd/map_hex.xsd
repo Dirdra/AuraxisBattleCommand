@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="map_hex_list">
+		<xsd:sequence>
+			<xsd:element name="map_hex" type="map_hex" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="map_hex">
+		<xsd:attribute name="hex_type" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="map_region_id"></xsd:attribute>
+		<xsd:attribute name="type_name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="x" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="y" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="zone_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="map_hex_list" type="map_hex_list"></xsd:element>
+</xsd:schema>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<event_list limit="0" returned="3" milliseconds="0" seconds="0.0">
+	<event achievement_id="90022" character_id="5428168624786140497"
+		event_type="AchievementEarned" table_type="achievement_events"
+		timestamp="1428185855" world_id="17" zone_id="8" />
+	<event achievement_id="4476" character_id="5428010618034966625"
+		event_type="AchievementEarned" table_type="achievement_events"
+		timestamp="1428185855" world_id="17" zone_id="4" />
+	<event achievement_id="90035" character_id="5428259567442303297"
+		event_type="AchievementEarned" table_type="achievement_events"
+		timestamp="1428185855" world_id="17" zone_id="6" />
+</event_list>

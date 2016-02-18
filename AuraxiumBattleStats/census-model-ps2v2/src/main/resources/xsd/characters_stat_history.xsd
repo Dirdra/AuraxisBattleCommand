@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="characters_stat_history_list" type="characters_stat_history_list"></xsd:element>
+	
+	<xsd:complexType name="characters_stat_history_list">
+		<xsd:sequence>
+			<xsd:element name="characters_stat_history" type="characters_stat_history"  maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="characters_stat_history">
+		<xsd:sequence>
+			<xsd:element name="day" type="stat_day_type"></xsd:element>
+			<xsd:element name="month" type="stat_month_type"></xsd:element>
+			<xsd:element name="week" type="stat_week_type"></xsd:element>
+		</xsd:sequence>
+		<xsd:attribute ref="character_id"></xsd:attribute>
+		<xsd:attribute ref="last_save"></xsd:attribute>
+		<xsd:attribute ref="last_save_date"></xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

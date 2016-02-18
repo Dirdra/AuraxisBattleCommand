@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_achievement_list limit="0"
+	returned="2" milliseconds="0" seconds="0.0">
+	<characters_achievement achievement_id="3002"
+		character_id="5428010618014164513" earned_count="0" finish="0"
+		finish_date="1970-01-01 00:00:00.0" last_save="1422302786"
+		last_save_date="2015-01-26 20:06:26.024819" start="1422330469"
+		start_date="2015-01-27 03:47:49.0" />
+	<characters_achievement achievement_id="1343"
+		character_id="5428010618035503921" earned_count="0" finish="0"
+		finish_date="1970-01-01 00:00:00.0" last_save="1402221752"
+		last_save_date="2014-06-08 10:02:32.017423" start="1402245186"
+		start_date="2014-06-08 16:33:06.0" />
+</characters_achievement_list>

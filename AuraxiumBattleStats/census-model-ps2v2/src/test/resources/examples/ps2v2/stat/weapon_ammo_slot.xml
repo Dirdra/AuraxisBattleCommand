@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weapon_ammo_slot_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<weapon_ammo_slot capacity="1" clip_size="1"
+		weapon_id="1" weapon_slot_index="0" />
+	<weapon_ammo_slot capacity="75" clip_size="15"
+		refill_ammo_rate="15" weapon_id="2" weapon_slot_index="0" />
+	<weapon_ammo_slot capacity="180" clip_size="30"
+		refill_ammo_rate="30" weapon_id="3" weapon_slot_index="0" />
+</weapon_ammo_slot_list>

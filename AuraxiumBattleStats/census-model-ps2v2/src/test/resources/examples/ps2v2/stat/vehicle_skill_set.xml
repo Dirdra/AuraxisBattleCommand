@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vehicle_skill_set_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<vehicle_skill_set display_index="4" faction_id="1"
+		skill_set_id="37" vehicle_id="1" />
+	<vehicle_skill_set display_index="5" faction_id="1"
+		skill_set_id="38" vehicle_id="1" />
+	<vehicle_skill_set display_index="6" faction_id="1"
+		skill_set_id="43" vehicle_id="1" />
+</vehicle_skill_set_list>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="weapon_ammo_slot_list">
+		<xsd:sequence>
+			<xsd:element name="weapon_ammo_slot" type="weapon_ammo_slot" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="weapon_ammo_slot">
+		<xsd:attribute ref="weapon_id"></xsd:attribute>
+		<xsd:attribute name="weapon_slot_index" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="clip_size" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="capacity" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="refill_ammo_rate" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="refill_ammo_delay_ms" type="xsd:int"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="weapon_ammo_slot_list" type="weapon_ammo_slot_list"></xsd:element>
+</xsd:schema>

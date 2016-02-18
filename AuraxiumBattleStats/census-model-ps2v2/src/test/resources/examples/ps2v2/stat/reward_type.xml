@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<reward_type_list limit="0" returned="2" milliseconds="0"
+	seconds="0.0">
+	<reward_type count_max="NULL" count_min="# of items to give"
+		description="Items" param1="Item ID" param2="NULL" param3="NULL"
+		param4="NULL" param5="NULL" reward_type_id="1" />
+	<reward_type count_max="NULL" count_min="NULL" description="XP"
+		param1="# of exp" param2="Profile (0 = current)" param3="award type"
+		param4="NULL" param5="NULL" reward_type_id="3" />
+</reward_type_list>

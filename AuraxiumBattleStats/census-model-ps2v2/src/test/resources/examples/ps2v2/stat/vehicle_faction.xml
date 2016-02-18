@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vehicle_faction_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<vehicle_faction faction_id="1" vehicle_id="1" />
+	<vehicle_faction faction_id="2" vehicle_id="1" />
+	<vehicle_faction faction_id="3" vehicle_id="1" />
+</vehicle_faction_list>

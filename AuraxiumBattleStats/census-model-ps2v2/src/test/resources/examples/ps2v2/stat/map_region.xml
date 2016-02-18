@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<map_region_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<map_region facility_id="7500" facility_name="Hvar"
+		facility_type="Tech Plant" facility_type_id="4" location_x="-656.0273"
+		location_y="491.7669" location_z="-2444.069" map_region_id="2101"
+		zone_id="2" />
+	<map_region facility_id="4401" facility_name="Mao"
+		facility_type="Tech Plant" facility_type_id="4" location_x="1810.0"
+		location_y="110.0" location_z="1514.0" map_region_id="2102"
+		zone_id="2" />
+	<map_region facility_id="4001" facility_name="Allatum"
+		facility_type="Bio Lab" facility_type_id="3" location_x="-383.0"
+		location_y="443.0" location_z="-845.0" map_region_id="2103"
+		zone_id="2" />
+</map_region_list>

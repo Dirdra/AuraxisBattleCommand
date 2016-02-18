@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="player_state_group_list">
+		<xsd:sequence>
+			<xsd:element name="player_state_group" type="player_state_group" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="player_state_group">
+		<xsd:attribute name="min_cone_of_fire" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="player_state" type="xsd:string"></xsd:attribute>
+		<xsd:attribute ref="player_state_group_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="player_state_group_list" type="player_state_group_list"></xsd:element>
+</xsd:schema>

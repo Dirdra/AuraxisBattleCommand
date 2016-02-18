@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_stat_history_list limit="0"
+	returned="2" milliseconds="0" seconds="0.0">
+	<characters_stat_history all_time="0"
+		character_id="5428010618031001249" last_save="1363166408"
+		last_save_date="2013-03-13 09:20:07.527" one_life_max="0" stat_name="kills">
+		<day d01="0" d02="0" d03="0" d04="0" d05="0" d06="0" d07="0" d08="0"
+			d09="0" d10="0" d11="0" d12="0" d13="0" d14="0" d15="0" d16="0" d17="0"
+			d18="0" d19="0" d20="0" d21="0" d22="0" d23="0" d24="0" d25="0" d26="0"
+			d27="0" d28="0" d29="0" d30="0" d31="0" />
+		<month m01="0" m02="0" m03="0" m04="0" m05="0" m06="0" m07="0"
+			m08="0" m09="0" m10="0" m11="0" m12="0" />
+		<week w01="0" w02="0" w03="0" w04="0" w05="0" w06="0" w07="0"
+			w08="0" w09="0" w10="0" w11="0" w12="0" w13="0" />
+	</characters_stat_history>
+	<characters_stat_history all_time="0"
+		character_id="5428010618031001249" last_save="1363166408"
+		last_save_date="2013-03-13 09:20:07.535" one_life_max="0" stat_name="deaths">
+		<day d01="0" d02="0" d03="0" d04="0" d05="0" d06="0" d07="0" d08="0"
+			d09="0" d10="0" d11="0" d12="0" d13="0" d14="0" d15="0" d16="0" d17="0"
+			d18="0" d19="0" d20="0" d21="0" d22="0" d23="0" d24="0" d25="0" d26="0"
+			d27="0" d28="0" d29="0" d30="0" d31="0" />
+		<month m01="0" m02="0" m03="0" m04="0" m05="0" m06="0" m07="0"
+			m08="0" m09="0" m10="0" m11="0" m12="0" />
+		<week w01="0" w02="0" w03="0" w04="0" w05="0" w06="0" w07="0"
+			w08="0" w09="0" w10="0" w11="0" w12="0" w13="0" />
+	</characters_stat_history>
+</characters_stat_history_list>

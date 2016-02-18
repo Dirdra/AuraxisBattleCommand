@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_skill_list limit="0" returned="2"
+	milliseconds="0" seconds="0.0">
+	<characters_skill character_id="5428010618015187217"
+		last_save="1353396227" last_save_date="2012-11-20 07:23:47.224"
+		skill_id="4539" />
+	<characters_skill character_id="5428010618015187217"
+		last_save="1353396227" last_save_date="2012-11-20 07:23:47.225"
+		skill_id="16445" />
+</characters_skill_list>

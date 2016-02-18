@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metagame_event_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<metagame_event experience_bonus="30" metagame_event_id="1"
+		type="1">
+		<name de="Sp&#252;re die Hitze" en="Feeling the Heat" es="Siente el calor"
+			fr="Sentir la pression" it="Sotto pressione" tr="S&#305;ca&#287;&#305; Hissetmek" />
+		<description de="Erobere Indar innerhalb des Zeitlimits."
+			en="Capture Indar within the time limit" es="Captura Indar sin pasarte del l&#237;mite de tiempo"
+			fr="Capturer Indar dans la limite de temps" it="Conquista Indar nei limiti di tempo"
+			tr="Zaman s&#305;n&#305;r&#305; i&#231;inde Indar&apos;&#305; Ele Ge&#231;ir" />
+	</metagame_event>
+	<metagame_event experience_bonus="30" metagame_event_id="2"
+		type="1">
+		<name de="Kalter Krieg" en="Cold War" es="Guerra fr&#237;a" fr="Guerre froide"
+			it="Guerra fredda" tr="So&#287;uk Sava&#351;" />
+		<description de="Erobere Esamir innerhalb des Zeitlimits."
+			en="Capture Esamir within the time limit" es="Captura Esamir sin pasarte del l&#237;mite de tiempo"
+			fr="Capturer Esamir dans la limite de temps" it="Conquista Esamir nei limiti di tempo"
+			tr="Zaman s&#305;n&#305;r&#305; i&#231;inde Esamir&apos;i El Ge&#231;ir" />
+	</metagame_event>
+	<metagame_event experience_bonus="30" metagame_event_id="3"
+		type="1">
+		<name de="Gr&#252;n sehen" en="Seeing Green" es="Ver en verde"
+			fr="Voir vert" it="Vedo verde" tr="Ye&#351;il G&#246;rme" />
+		<description de="Erobere Amerish innerhalb des Zeitlimits."
+			en="Capture Amerish within the time limit" es="Captura Amerish sin pasarte del l&#237;mite de tiempo"
+			fr="Capturer Amerish dans la limite de temps" it="Conquista Amerish nei limiti di tempo"
+			tr="Zaman s&#305;n&#305;r&#305; i&#231;inde Amerish&apos;i Ele Ge&#231;ir" />
+	</metagame_event>
+</metagame_event_list>

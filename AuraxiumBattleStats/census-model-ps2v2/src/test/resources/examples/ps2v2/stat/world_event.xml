@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<world_event_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<world_event facility_id="310612" faction_old="1"
+		faction_new="3" duration_held="0" objective_id="0" timestamp="1428185914"
+		zone_id="258867295" world_id="1" event_type="FacilityControl"
+		table_type="facility_event" outfit_id="0" />
+	<world_event facility_id="310612" faction_old="0"
+		faction_new="1" duration_held="1428185914" objective_id="0" timestamp="1428185914"
+		zone_id="258867295" world_id="1" event_type="FacilityControl"
+		table_type="facility_event" outfit_id="0" />
+	<world_event facility_id="310088" faction_old="0"
+		faction_new="3" duration_held="1428185914" objective_id="0" timestamp="1428185914"
+		zone_id="258867295" world_id="1" event_type="FacilityControl"
+		table_type="facility_event" outfit_id="0" />
+</world_event_list>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vehicle_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<vehicle cost="50" cost_resource_id="4" image_id="3975"
+		image_path="/files/ps2/images/static/3975.png" image_set_id="98"
+		type_id="5" type_name="Four Wheeled Ground Vehicle??" vehicle_id="1">
+		<name de="Flash" en="Flash" es="Flash" fr="Flash" it="Flash"
+			tr="&#350;&#304;M&#350;EK" />
+		<description
+			de="Der Flash ist ein Quad, das den Fahrer und einen Passagier schnell an die Front zu bringt. Der Passagier ist in der Lage, das meiste seiner Ausr&#252;stung zu benutzen, w&#228;hrend er auf dem R&#252;cksitz mitf&#228;hrt."
+			en="The Flash is an ATV capable of getting the driver and one passenger quickly to the front lines.  The passenger is able to use most of their personal equipment while riding on the back."
+			es="El Flash es un ATV capaz de llevar al conductor y aun soldado m&#225;s a las l&#237;neas del frente r&#225;pidamente. El pasajero puede usar la mayor&#237;a de su equipo personal desde la parte trasera del veh&#237;culo en la que se sienta."
+			fr="Le Flash est un Quad pouvant transporter son conducteur et un passager au front rapidement. Le passager peut utiliser la plupart de son &#233;quipement personnel lorsqu&apos;il est install&#233; &#224; l&apos;arri&#232;re."
+			it="Il Flash &#232; un Atv che consente al conducente e al passeggero di arrivare velocemente al fronte. Il passeggero pu&#242; utilizzare la maggior parte dell&apos;equipaggiamento personale mentre viaggia nel retro del veicolo."
+			tr="&#350;im&#351;ek, s&#252;r&#252;c&#252;y&#252; ve bir yolcuyu cephe hatt&#305;na &#231;abuk ula&#351;t&#305;rabilen bir ATV arac&#305;d&#305;r. Yolcu arkada otururken ki&#351;isel ekipmanlar&#305;ndan &#231;o&#287;unu kullanabilir." />
+	</vehicle>
+	<vehicle cost="200" cost_resource_id="4" image_id="4002"
+		image_path="/files/ps2/images/static/4002.png" image_set_id="100"
+		type_id="5" type_name="Four Wheeled Ground Vehicle??" vehicle_id="2">
+		<name de="Sunderer" en="Sunderer" es="Sunderer" fr="Disperseur"
+			it="Sunderer" tr="YARICI" />
+		<description
+			de="Ein Sunderer ist ein gro&#223;er Transporter mit Platz f&#252;r bis zu 12 Personen. Er kann auch mit einigen anderen Unterst&#252;tzungsfunktionen wie beispielsweise einer transportablen Respawnstation, Fahrzeugreparatur oder Munitionsversorgung der Fahrzeuge ausgestattet werden."
+			en="The Sunderer is a large transport capable of holding 12 soldiers.  It can also be outfitted with several support functions such as a mobile respawn station, vehicle repair or vehicle ammo resupply."
+			es="El Sunderer es un transporte de gran capacidad que puede llevar hasta 12 soldados. Tambi&#233;n se le pueden otorgar funciones de apoyo como estaci&#243;n m&#243;vil de apariciones, punto de reparaci&#243;n de veh&#237;culos o punto de suministro de veh&#237;culos. "
+			fr="Le Disperseur est un gros v&#233;hicule capable de transporter 12 soldats. Il peut aussi &#234;tre &#233;quip&#233; de plusieurs fonctions de soutien telles qu&apos;une station de r&#233;animation mobile, un v&#233;hicule de r&#233;paration ou un v&#233;hicule de r&#233;approvisionnement en munitions."
+			it="Il Sunderer &#232; un grosso trasporto truppe capace di portare fino a 12 soldati. Pu&#242; anche venire equipaggiato per avere funzioni di supporto come stazione mobile di rigenerazione, di riparazione veicoli o di fornitura di munizioni per veicoli."
+			tr="Yar&#305;c&#305;, 12 asker ta&#351;&#305;yabilme &#246;zelli&#287;ine sahip b&#252;y&#252;k bir asker nakil arac&#305;d&#305;r. Ayn&#305; zamanda gezici bir ekipman terminali, ara&#231; tamiri ya da ara&#231; m&#252;himmat ikmali gibi farkl&#305; i&#351;levlere de sahiptir." />
+	</vehicle>
+	<vehicle cost="350" cost_resource_id="4" image_id="3984"
+		image_path="/files/ps2/images/static/3984.png" image_set_id="94"
+		type_id="5" type_name="Four Wheeled Ground Vehicle??" vehicle_id="3">
+		<name de="Lightning" en="Lightning" es="Lightning" fr="Foudre"
+			it="Lightning" tr="YILDIRIM" />
+		<description
+			de="Der Lightning ist ein leichter Ein-Mann-Panzer. Er kann mit verschiedenen Gesch&#252;tzarten ausgestattet werden, um zur Flugabwehr oder zur Panzerabwehr eingesetzt zu werden."
+			en="The Lightning is a light one man tank.  The Lightning can be outfitted with various types of turrets allowing it to fill anti-air and anti-armor roles."
+			es="El Lightning es un tanque monoplaza ligero al que se le pueden instalar varios tipos de torretas que lo hacen efectivo contra veh&#237;culos a&#233;reos y blindados."
+			fr="Le Foudre est un char l&#233;ger monoplace. Le Foudre peut &#234;tre &#233;quip&#233; de diff&#233;rentes tourelles lui permettant de remplir des r&#244;les anti-a&#233;riens et anti-chars."
+			it="Il Lightning &#232; un carro leggero monoposto. Il Lightning pu&#242; essere equipaggiato con vari tipi di torrette che gli permettono di avere ruoli antiaerei e anche anticarro."
+			tr="Y&#305;ld&#305;r&#305;m, hafif bir tek ki&#351;ilik tankt&#305;r. Y&#305;ld&#305;r&#305;m, u&#231;ak-savar ve z&#305;rh-savar rollerinde kullan&#305;lmak &#252;zere farkl&#305; tip taretler ile donat&#305;labilinir." />
+	</vehicle>
+</vehicle_list>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<vehicle_attachment_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<vehicle_attachment description="Flash VS"
+		faction_id="1" item_id="38" slot_id="8" vehicle_id="1" />
+	<vehicle_attachment description="Flash NC"
+		faction_id="2" item_id="38" slot_id="8" vehicle_id="1" />
+	<vehicle_attachment description="Flash TR"
+		faction_id="3" item_id="38" slot_id="8" vehicle_id="1" />
+</vehicle_attachment_list>

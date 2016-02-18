@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="outfit_member_list">
+		<xsd:sequence>
+			<xsd:element name="outfit_member" type="outfit_member" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="outfit_member">
+		<xsd:attribute ref="character_id"></xsd:attribute>
+		<xsd:attribute name="member_since" type="xsd:long"></xsd:attribute>
+		<xsd:attribute name="member_since_date" type="xsd:string"></xsd:attribute>
+		<xsd:attribute ref="outfit_id"></xsd:attribute>
+		<xsd:attribute name="rank" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="rank_ordinal" type="xsd:int"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="outfit_member_list" type="outfit_member_list"></xsd:element>
+</xsd:schema>

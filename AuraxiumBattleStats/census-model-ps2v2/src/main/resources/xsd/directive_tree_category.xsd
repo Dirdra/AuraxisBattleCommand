@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="directive_tree_category_list" type="directive_tree_category_list"></xsd:element>
+	
+	<xsd:complexType name="directive_tree_category_list">
+		<xsd:sequence>
+			<xsd:element name="directive_tree_category" type="directive_tree_category" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="directive_tree_category">
+		<xsd:sequence>
+			<xsd:element name="name" type="directive_tree_category_name"></xsd:element>
+		</xsd:sequence>
+		<xsd:attribute ref="directive_tree_category_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:complexType name="directive_tree_category_name">
+		<xsd:attributeGroup ref="languageAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+</xsd:schema>

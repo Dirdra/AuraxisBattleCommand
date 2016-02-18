@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="empire_scores_list">
+		<xsd:sequence>
+			<xsd:element name="empire_scores" type="empire_scores" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="empire_scores">
+		<xsd:sequence>
+			<xsd:element name="name" type="multi_language_description_type"></xsd:element>
+			<xsd:element name="description" type="multi_language_description_type"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attribute name="end_date" type="xsd:dateTime"></xsd:attribute>
+		<xsd:attribute name="end_time" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="start_date" type="xsd:dateTime"></xsd:attribute>
+		<xsd:attribute name="start_time" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="tracker_description" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="tracker_name" type="xsd:string"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="empire_scores_list" type="empire_scores_list"></xsd:element>
+</xsd:schema>

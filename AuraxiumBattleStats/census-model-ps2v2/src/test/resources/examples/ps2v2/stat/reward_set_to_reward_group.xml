@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<reward_set_to_reward_group_list limit="0"
+	returned="3" milliseconds="0" seconds="0.0">
+	<reward_set_to_reward_group reward_group_id="843"
+		reward_set_id="843" />
+	<reward_set_to_reward_group reward_group_id="844"
+		reward_set_id="844" />
+	<reward_set_to_reward_group reward_group_id="845"
+		reward_set_id="845" />
+</reward_set_to_reward_group_list>

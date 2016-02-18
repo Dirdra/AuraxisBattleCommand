@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<image_set_default_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<image_set_default description="black_heavyAssault"
+		image_id="35" image_path="/files/ps2/images/static/35.png"
+		image_set_id="1" type_description="Large (128 pixel height)" type_id="7" />
+	<image_set_default description="black_lightAssault"
+		image_id="38" image_path="/files/ps2/images/static/38.png"
+		image_set_id="2" type_description="Large (128 pixel height)" type_id="7" />
+	<image_set_default description="black_medic"
+		image_id="41" image_path="/files/ps2/images/static/41.png"
+		image_set_id="3" type_description="Large (128 pixel height)" type_id="7" />
+</image_set_default_list>

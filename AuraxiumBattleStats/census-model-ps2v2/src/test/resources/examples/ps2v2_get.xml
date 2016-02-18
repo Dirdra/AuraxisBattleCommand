@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<datatype_list limit="0" returned="106" milliseconds="0"
+	seconds="0.0">
+	<datatype name="single_character_by_id" count="dynamic"
+		hidden="false">
+		<resolve_list>
+			<resolve>online_status</resolve>
+			<resolve>friends</resolve>
+			<resolve>world</resolve>
+			<resolve>outfit</resolve>
+			<resolve>item</resolve>
+			<resolve>profile</resolve>
+			<resolve>faction</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="character" count="7452023" hidden="false">
+		<resolve_list>
+			<resolve>item</resolve>
+			<resolve>item_full</resolve>
+			<resolve>profile</resolve>
+			<resolve>faction</resolve>
+			<resolve>stat</resolve>
+			<resolve>stat_by_faction</resolve>
+			<resolve>weapon_stat</resolve>
+			<resolve>weapon_stat_by_faction</resolve>
+			<resolve>stat_history</resolve>
+			<resolve>online_status</resolve>
+			<resolve>friends</resolve>
+			<resolve>world</resolve>
+			<resolve>outfit</resolve>
+			<resolve>outfit_member</resolve>
+			<resolve>outfit_member_extended</resolve>
+			<resolve>currency</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="character_name" count="7452023" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_achievement" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_currency" count="7452023" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_directive" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_directive_objective" count="7452023"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_directive_tier" count="7452023"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_directive_tree" count="7452023"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_skill" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_stat" count="7452114" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_stat_by_faction" count="7452114"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_stat_history" count="6014916"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_weapon_stat" count="7452114"
+		hidden="false">
+		<resolve_list>
+			<resolve>item</resolve>
+			<resolve>vehicle</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="characters_weapon_stat_by_faction" count="7452114"
+		hidden="false">
+		<resolve_list>
+			<resolve>item</resolve>
+			<resolve>vehicle</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="world_stat_history" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_item" count="dynamic" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="ability" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="ability_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="achievement" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="currency" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="directive" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="directive_tier" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="directive_tree" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="directive_tree_category" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="effect" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="effect_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="empire_scores" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="experience" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="experience_rank" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="facility_link" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="facility_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="faction" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_group" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_group_to_fire_mode" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_mode" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_mode_2" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_mode_to_projectile" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="fire_mode_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="image" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="image_set" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="image_set_default" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item_attachment" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item_category" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item_profile" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item_to_weapon" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="item_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="loadout" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="map_hex" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="map_region" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="marketing_bundle" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="marketing_bundle_item" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="marketing_bundle_with_1_item" count="?"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="metagame_event" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="metagame_event_state" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="objective" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="objective_set_to_objective" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="objective_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="player_state" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="player_state_group" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="player_state_group_2" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="profile" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="projectile" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="projectile_flight_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="region" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="resist_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="resource_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="reward" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="reward_group_to_reward" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="reward_set_to_reward_group" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="reward_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="skill" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="skill_category" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="skill_line" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="skill_set" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="target_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="title" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="vehicle" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="vehicle_attachment" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="vehicle_faction" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="vehicle_skill_set" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="weapon" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="weapon_ammo_slot" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="weapon_datasheet" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="weapon_to_attachment" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="weapon_to_fire_group" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="zone" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="zone_effect" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="zone_effect_type" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_world" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="world" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="outfit" count="?" hidden="false">
+		<resolve_list>
+			<resolve>leader</resolve>
+			<resolve>leader_name</resolve>
+			<resolve>leaders_stat_history</resolve>
+			<resolve>member</resolve>
+			<resolve>rank</resolve>
+			<resolve>member_character</resolve>
+			<resolve>member_character_name</resolve>
+			<resolve>member_characters_stat_history</resolve>
+			<resolve>member_online_status</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="outfit_member" count="?" hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+			<resolve>online_status</resolve>
+			<resolve>outfit</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="outfit_member_extended" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="outfit_rank" count="?" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_online_status" count="dynamic"
+		hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="map" count="dynamic" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="characters_friend" count="dynamic" hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>world</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="characters_world" count="dynamic" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+	<datatype name="leaderboard" count="dynamic" hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>world</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="characters_leaderboard" count="dynamic"
+		hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+			<resolve>world</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="characters_event_grouped" count="dynamic"
+		hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="characters_event" count="dynamic" hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+			<resolve>attacker</resolve>
+			<resolve>attacker_name</resolve>
+			<resolve>attackers_stat_history</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="event" count="dynamic" hidden="false">
+		<resolve_list>
+			<resolve>character</resolve>
+			<resolve>character_name</resolve>
+			<resolve>characters_stat_history</resolve>
+			<resolve>attacker</resolve>
+			<resolve>attacker_name</resolve>
+			<resolve>attackers_stat_history</resolve>
+		</resolve_list>
+	</datatype>
+	<datatype name="world_event" count="dynamic" hidden="false">
+		<resolve_list></resolve_list>
+	</datatype>
+</datatype_list>

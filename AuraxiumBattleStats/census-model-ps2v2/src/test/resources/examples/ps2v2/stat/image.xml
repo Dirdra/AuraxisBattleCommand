@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<image_list limit="0" returned="3" milliseconds="0" seconds="0.0">
+	<image description="NULL" image_id="1"
+		path="/files/ps2/images/static/1.png" />
+	<image description="NULL" image_id="2"
+		path="/files/ps2/images/static/2.png" />
+	<image description="NULL" image_id="3"
+		path="/files/ps2/images/static/3.png" />
+</image_list>

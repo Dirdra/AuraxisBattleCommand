@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<item_list limit="0" returned="3" milliseconds="0" seconds="0.0">
+	<item faction_id="2" image_id="963" image_path="/files/ps2/images/static/963.png"
+		image_set_id="322" is_default_attachment="0" is_vehicle_weapon="0"
+		item_category_id="2" item_id="1" item_type_id="26" max_stack_size="1">
+		<name de="Mag-Cutter" en="Mag-Cutter" es="Mag-Cutter" fr="Couteau-Mag"
+			it="Mag-Cutter" tr="Mag-Kesici" />
+		<description
+			de="Der Mag-Cutter des Neuen Konglomerats ist durch einen leistungsstarken Elektromagneten gekennzeichnet, der in der Lage ist, durch feindliche Panzerung zu schneiden."
+			en="The New Conglomerate&apos;s Mag-Cutter features a powerful electromagnet capable of cutting through enemy body armor."
+			es="El Mag-Cutter del Nuevo Conglomerado contiene un poderoso electroim&#225;n que puede atravesar las armaduras de los enemigos."
+			fr="Le couteau-Mag du Nouveau Conglom&#233;rat offre un &#233;lectroaimant puissant capable de percer n&apos;importe qu&apos;elle armure ennemie."
+			it="Il Mag-Cutter del Nuovo Conglomerato dispone di un potente elettromagnete che riesce a tagliare l&apos;armatura del nemico."
+			tr="Yeni Birle&#351;im&apos;in Mag-Kesici&apos;si d&#252;&#351;man v&#252;cut z&#305;rh&#305;n&#305; delebilen g&#252;&#231;l&#252; bir elektrom&#305;knat&#305;s &#246;zelli&#287;ini ta&#351;&#305;maktad&#305;r." />
+	</item>
+	<item faction_id="2" image_id="2432" image_path="/files/ps2/images/static/2432.png"
+		image_set_id="202" is_default_attachment="0" is_vehicle_weapon="0"
+		item_category_id="3" item_id="2" item_type_id="26" max_stack_size="1"
+		skill_set_id="105">
+		<name de="NC4 Mag-Shot" en="NC4 Mag-Shot" es="NC4 Mag-Shot" fr="Mag-Shot NC4"
+			it="NC4 Mag-Shot" tr="NC4 Mag-Shot" />
+		<description
+			de="Die vielseitige Standardwaffe NC4 MAG-Shot war die erste Pistole, die die Gau&#223;-Technologie nutzte. Nur f&#252;r NK."
+			en="The versatile standard-issue NC4 Mag-Shot was the first pistol to utilize Gauss technology. NC use only."
+			es="La vers&#225;til NC4 Mag-Shot est&#225;ndar fue la primera pistola que utiliz&#243; tecnolog&#237;a Gauss. Solo para NC"
+			fr="Le mod&#232;le de base polyvalent du Mag-Shot NC4 a &#233;t&#233; le premier pistolet &#224; utiliser la technologie Gauss. NC uniquement."
+			it="La versatile Mag-Shot NC4 standard &#232; stata la prima pistola a tecnologia Gauss. Esclusivo NC."
+			tr="&#199;ok ama&#231;l&#305; standart &#252;retim NC4 Mag-Shot, Gauss teknolojisini kullanan ilk tabancad&#305;r. Yaln&#305;zca Yeni Birle&#351;im kullan&#305;m&#305; i&#231;in." />
+	</item>
+	<item faction_id="2" image_id="5322" image_path="/files/ps2/images/static/5322.png"
+		image_set_id="2751" is_default_attachment="0" is_vehicle_weapon="0"
+		item_category_id="8" item_id="3" item_type_id="26" max_stack_size="1"
+		skill_set_id="123">
+		<name de="AF-19 Mercenary" en="AF-19 Mercenary" es="AF-19 Mercenary"
+			fr="Mercenaire AF-19" it="AF-19 Mercenary" tr="AF-19 Paral&#305; Asker" />
+		<description
+			de="Der AF-19 Mercenary wurde wegen seiner niedrigen Produktionskosten zum Standard-Karabiner des NKs. Er hat einen kontrollierbaren R&#252;cksto&#223;, was ihn bei kurzer bis mittlerer Distanz effektiv macht. Nur f&#252;r NK."
+			en="The AF-19 Mercenary became the standard issue carbine for the NC due to its low production costs. It features controllable recoil that makes it effective at close to medium ranges. NC use only."
+			es="La AF-19 Mercenary se convirti&#243; en la carabina est&#225;ndar del NC por su bajo coste de producci&#243;n. Se caracteriza por su controlable retroceso, lo que la hace eficaz frente a objetivos a corta o media distancia. Solo para NC"
+			fr="Le Mercenaire AF-19 est devenu la carabine de base du NC &#224; cause de son faible co&#251;t de production. Son recul est contr&#244;lable, ce qui le rend efficace &#224; courte ou moyenne port&#233;e. NC uniquement."
+			it="La Mercenary AF-19 &#232; diventata la carabina standard dell&apos;NC grazie al suo basso costo di produzione. Dispone di un rinculo controllabile che la rende molto efficace nelle brevi o medie distanze. Esclusivo NC."
+			tr="AF-19 Paral&#305; Asker, d&#252;&#351;&#252;k &#252;retim maliyetinden dolayi standart piyade t&#252;fe&#287;idir. Geri tepmesi kontrol edilebilen, k&#305;sa ve orta menzilde etkili bir silahtir. Yaln&#305;zca Yeni Birle&#351;im kullan&#305;m&#305; i&#231;in." />
+	</item>
+</item_list>

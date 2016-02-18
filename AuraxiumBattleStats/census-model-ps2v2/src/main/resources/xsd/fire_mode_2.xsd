@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="fire_mode_2_list">
+		<xsd:sequence>
+			<xsd:element name="fire_mode_2" type="fire_mode_2" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="fire_mode_2">
+		<xsd:sequence>
+			<xsd:element name="description" type="multi_language_description_type"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attribute ref="ability_id"></xsd:attribute>
+		<xsd:attribute name="ammo_slot" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="armor_penetration" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="automatic" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_override" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="cof_pellet_spread" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="cof_range" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_recoil" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="cof_scalar" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="cof_scalar_moving" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="damage_direct_effect_id"></xsd:attribute>
+		<xsd:attribute name="damage_head_multiplier" type="xsd:float"></xsd:attribute>
+		<xsd:attribute ref="damage_indirect_effect_id"></xsd:attribute>
+		<xsd:attribute name="damage_legs_multiplier" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="fire_ammo_per_shot" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_auto_fire_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_burst_count" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_charge_up_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_delay_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_detect_range" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_duration_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="fire_mode_id"></xsd:attribute>
+		<xsd:attribute ref="fire_mode_type_id"></xsd:attribute>
+		<xsd:attribute name="fire_pellets_per_shot" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_refire_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="grief_immune" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="heat_per_shot" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="heat_recovery_delay_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="heat_threshold" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="iron_sights" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="laser_guided" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="lockon_acquire_close_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_acquire_far_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_acquire_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_angle" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="lockon_lose_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_maintain" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="lockon_radius" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="lockon_range" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_range_close" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_range_far" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="lockon_required" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="max_damage" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="max_damage_ind" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="max_damage_ind_radius" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="max_damage_range" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="min_damage" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="min_damage_ind" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="min_damage_ind_radius" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="min_damage_range" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="move_modifier" type="xsd:double"></xsd:attribute>
+		<xsd:attribute ref="player_state_group_id"></xsd:attribute>
+		<xsd:attribute name="projectile_speed_override" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="recoil_angle_max" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_angle_min" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_first_shot_modifier" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="recoil_horizontal_max" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="recoil_horizontal_max_increase" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_horizontal_min" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="recoil_horizontal_min_increase" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_horizontal_tolerance" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="recoil_increase" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="recoil_increase_crouched" type="xsd:float"></xsd:attribute>
+		<xsd:attribute name="recoil_magnitude_max" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="recoil_magnitude_min" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="recoil_max_total_magnitude" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_recovery_acceleration" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_recovery_delay_ms"  type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_recovery_rate" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="recoil_shots_at_min_magnitude" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_ammo_fill_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_block_auto" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="reload_chamber_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_continuous" type="xsd:boolean"></xsd:attribute>
+		<xsd:attribute name="reload_loop_end_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_loop_start_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_time_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="shield_bypass_pct" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sprint_fire" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sway_amplitude_x" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sway_amplitude_y" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sway_can_steady" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sway_period_x" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="sway_period_y" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="turn_modifier" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="use_in_water"  type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="zoom_default" type="xsd:double"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="fire_mode_2_list" type="fire_mode_2_list"></xsd:element>
+</xsd:schema>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<marketing_bundle_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<marketing_bundle image_id="2720" marketing_bundle_id="38"
+		release_time="1334016000" station_cash_price="1000">
+		<name de="Emblem &quot;PlanetSide Veteran&quot;" en="PlanetSide Veteran Decal"
+			es="Emblema Veterano de PlanetSide" fr="D&#233;calco de v&#233;t&#233;ran de PlanetSide"
+			it="Adesivo da veterano PlanetSide" tr="PlanetSide Emektar &#199;&#305;kartmas&#305;" />
+		<description de="Emblem &quot;PlanetSide Veteran&quot;"
+			en="PlanetSide Veteran Decal" es="Emblema Veterano de PlanetSide"
+			fr="D&#233;calco de v&#233;t&#233;ran de PlanetSide" it="Adesivo da veterano PlanetSide"
+			tr="PlanetSide Emektar &#199;&#305;kartmas&#305;" />
+	</marketing_bundle>
+	<marketing_bundle image_id="35" marketing_bundle_id="40"
+		release_time="1334016000" station_cash_price="700">
+		<name de="Rekrutenzentrum - Belohnung: Goldene Pistole" en="Recruit Center - Gold Pistol Reward"
+			es="Centro de reclutamiento: Recompensa de escopeta dorada" fr="Centre de recrutement - R&#233;compense pistolet or"
+			it="Centro reclute: premio Pistola d&apos;oro"
+			tr="Asker Yeti&#351;tirme Merkezi - Alt&#305;n Tabanca &#214;d&#252;l&#252;" />
+		<description de="Veteran" en="Veteran" es="Veterano"
+			fr="V&#233;t&#233;ran" it="Veterano" tr="Muharip" />
+	</marketing_bundle>
+	<marketing_bundle image_id="35" marketing_bundle_id="41"
+		release_time="1334016000" station_cash_price="1500">
+		<name de="NS-11 Platin-Gewehr" en="NS-11 Platinum Rifle" es="Rifle NS-11 Platinum"
+			fr="Fusil NS-11 Platine" it="Fucile NS-11 Platinum" tr="NS-11 Platin T&#252;fek" />
+		<description de="NS-11 Platin-Gewehr" en="NS-11 Platinum Rifle"
+			es="Rifle NS-11 Platinum" fr="Fusil NS-11 Platine" it="Fucile NS-11 Platinum"
+			tr="NS-11 Platin T&#252;fek" />
+	</marketing_bundle>
+</marketing_bundle_list>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<achievement_list limit="0" returned="2" milliseconds="0"
+	seconds="0.0">
+	<achievement achievement_id="1" image_id="3072"
+		image_path="/files/ps2/images/static/3072.png" image_set_id="1564"
+		item_id="30" objective_group_id="1" repeatable="0" reward_id="100">
+		<name de="AS16 NightHawk" en="AS16 NightHawk" es="AS16 NightHawk"
+			fr="Rapace de nuit AS16" it="AS16 NightHawk" tr="AS16 Gece Atmacas&#305;" />
+		<description de="10 Feinde get&#246;tet" en="10 Enemies Killed"
+			es="10 enemigos muertos" fr="10 ennemis tu&#233;s" it="10 nemici uccisi"
+			tr="10 D&#252;&#351;man &#214;ld&#252;r&#252;ld&#252;" />
+	</achievement>
+	<achievement achievement_id="2" image_id="3072"
+		image_path="/files/ps2/images/static/3072.png" image_set_id="1564"
+		item_id="82" objective_group_id="2" repeatable="0" reward_id="100">
+		<name de="PGL-6 Goliath" en="PGL-6 Goliath" es="PGL-6 Goliath"
+			fr="Goliath PGL-6" it="PGL-6 Goliath" tr="PGL-6 Golyat" />
+		<description de="10 Feinde get&#246;tet" en="10 Enemies Killed"
+			es="10 enemigos muertos" fr="10 ennemis tu&#233;s" it="10 nemici uccisi"
+			tr="10 D&#252;&#351;man &#214;ld&#252;r&#252;ld&#252;" />
+	</achievement>
+</achievement_list>

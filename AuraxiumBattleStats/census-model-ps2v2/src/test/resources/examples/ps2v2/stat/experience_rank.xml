@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<experience_rank_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<experience_rank nc_image_path="/files/ps2/images/static/4067.png"
+		rank="1" tr_image_path="/files/ps2/images/static/4066.png"
+		vs_image_path="/files/ps2/images/static/4065.png" xp_max="0">
+		<nc image_id="4067" image_set_id="1628">
+			<title de="Rekrut" en="Recruit" es="Recluta" fr="Recrue" it="Recluta"
+				tr="Acemi" />
+		</nc>
+		<tr image_id="4066" image_set_id="1728">
+			<title de="Private" en="Private" es="Soldado raso" fr="Soldat"
+				it="Soldato" tr="Er" />
+		</tr>
+		<vs image_id="4065" image_set_id="1828">
+			<title de="Initiate" en="Initiate" es="Principiante" fr="Initi&#233;"
+				it="Iniziato" tr="Yeni &#220;ye" />
+		</vs>
+	</experience_rank>
+	<experience_rank nc_image_path="/files/ps2/images/static/4070.png"
+		rank="2" tr_image_path="/files/ps2/images/static/4069.png"
+		vs_image_path="/files/ps2/images/static/4068.png" xp_max="375">
+		<nc image_id="4070" image_set_id="1629">
+			<title de="Kadett 1" en="Cadet 1" es="Cadete 1" fr="Aspirant 1"
+				it="Cadetto 1" tr="Subay Aday&#305; 1" />
+		</nc>
+		<tr image_id="4069" image_set_id="1729">
+			<title de="PFC 1" en="PFC 1" es="Soldado de 1&#170; clase 1"
+				fr="Sdt 1cl 1" it="PFC 1" tr="Er 1" />
+		</tr>
+		<vs image_id="4068" image_set_id="1829">
+			<title de="Novus 1" en="Novus 1" es="Novus 1" fr="Novus 1" it="Novus 1"
+				tr="Novus 1" />
+		</vs>
+	</experience_rank>
+	<experience_rank nc_image_path="/files/ps2/images/static/4073.png"
+		rank="3" tr_image_path="/files/ps2/images/static/4072.png"
+		vs_image_path="/files/ps2/images/static/4071.png" xp_max="1500">
+		<nc image_id="4073" image_set_id="1630">
+			<title de="Kadett 2" en="Cadet 2" es="Cadete 2" fr="Aspirant 2"
+				it="Cadetto 2" tr="Subay Aday&#305; 2" />
+		</nc>
+		<tr image_id="4072" image_set_id="1730">
+			<title de="PFC 2" en="PFC 2" es="Soldado de 1&#170; clase 2"
+				fr="Sdt 1cl 2" it="PFC 2" tr="Er 2" />
+		</tr>
+		<vs image_id="4071" image_set_id="1830">
+			<title de="Novus 2" en="Novus 2" es="Novus 2" fr="Novus 2" it="Novus 2"
+				tr="Novus 2" />
+		</vs>
+	</experience_rank>
+</experience_rank_list>

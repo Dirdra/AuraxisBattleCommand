@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<facility_link_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<facility_link description="NULL" facility_id_a="244000"
+		facility_id_b="257020" zone_id="8" />
+	<facility_link description="NULL" facility_id_a="244000"
+		facility_id_b="242000" zone_id="8" />
+	<facility_link description="Esamir - SO1.PalosSolar to LO1.SnowShear"
+		facility_id_a="230000" facility_id_b="245000" zone_id="8" />
+</facility_link_list>

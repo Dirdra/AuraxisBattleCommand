@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="characters_friend_list" type="characters_friend_list"></xsd:element>
+	
+	<xsd:complexType name="characters_friend_list">
+		<xsd:sequence>
+			<xsd:element name="characters_friend" type="characters_friend" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="characters_friend">
+		<xsd:sequence>
+			<xsd:element name="friend_list" type="friend_list"></xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute ref="character_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:complexType name="friend_list">
+		<xsd:sequence>
+			<xsd:element name="friend" type="friend" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	</xsd:complexType>
+	
+	<xsd:complexType name="friend">
+		<xsd:attribute ref="character_id"></xsd:attribute>
+		<xsd:attribute name="last_login_time"></xsd:attribute>
+		<xsd:attribute name="online"></xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

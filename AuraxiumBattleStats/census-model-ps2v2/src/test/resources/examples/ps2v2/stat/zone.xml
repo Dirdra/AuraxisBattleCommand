@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<zone_list limit="0" returned="3" milliseconds="0" seconds="0.0">
+	<zone code="Indar" hex_size="200" zone_id="2">
+		<name de="Indar" en="Indar" es="Indar" fr="Indar" it="Indar" tr="Indar" />
+		<description
+			de="Der ausged&#246;rrte Kontinent von Indar beheimatet eine Auswahl an Biomen. Grasreiche Savannen, felsige Schluchten und weite Ebenen auf dem Meeresgrund bieten Soldaten einzigartige Herausforderungen."
+			en="The arid continent of Indar is home to an assortment of biomes. Grassy savannas, rocky canyons, and the open plains of the seabed provide unique challenges to soldiers."
+			es="El &#225;rido continente de Indar alberga una diversidad de biomas. Las pastosas sabanas, los rocosos ca&#241;ones y las extensas llanuras que una vez fueron un fondo marino, suponen todo un reto para los soldados."
+			fr="Le continent aride d&apos;Indar regroupe un assortiment de biomes. Des savanes herbeuses, des canyons rocheux et les plaines d&#233;gag&#233;es des fonds marins offrent aux soldats des d&#233;fis uniques."
+			it="L&apos;arido continente Indar ospita una variet&#224; di biomi. Le savane erbose, i canyon rocciosi e le praterie di quello che era una volta un fondale marino, mettono a disposizione dei soldati sfide davvero uniche."
+			tr="Kurak Indar k&#305;tas&#305; &#231;ok &#231;e&#351;itli bir co&#287;rafyaya sahiptir. Otlu ovalar, kayal&#305;k kanyonlar ve deniz yata&#287;&#305;n&#305;n geni&#351; d&#252;zl&#252;kleri askerler i&#231;in farkl&#305; zorluklar&#305; da beraberinde getirir." />
+	</zone>
+	<zone code="Hossin" hex_size="200" zone_id="4">
+		<name de="Hossin" en="Hossin" es="Hossin" fr="Hossin" it="Hossin"
+			tr="Hossin" />
+		<description
+			de="Hossins dichte Mangroven- und Weidenw&#228;lder bieten Schutz vor Luftangriffen zwischen ihren vielen S&#252;mpfen und Hochl&#228;ndern."
+			en="Hossin&apos;s dense mangrove and willow forests provide air cover along its many swamps and highlands."
+			es="El denso mangle y los bosques de sauce de Hossin proporcionan una protecci&#243;n a&#233;rea a lo largo de sus muchos pantanos y altiplanicies."
+			fr="La dense mangrove et les for&#234;ts de saule de Hossin offrent une couverture a&#233;rienne le long de ses nombreux mar&#233;cages et montagnes."
+			it="Le fitte foreste di mangrovie e di salici a Hossin forniscono copertura aerea lungo le numerose paludi e altipiani."
+			tr="Hossin&apos;s dense mangrove and willow forests provide air cover along its many swamps and highlands." />
+	</zone>
+	<zone code="Amerish" hex_size="200" zone_id="6">
+		<name de="Amerish" en="Amerish" es="Amerish" fr="Amerish" it="Amerish"
+			tr="Amerish" />
+		<description
+			de="Die unz&#228;hligen W&#228;lder und felsigen Landschaften des &#252;ppigen Kontinents Amerish bieten ausreichend Deckung zwischen ihrem h&#252;geligen Terrain und den Gebirgsp&#228;ssen."
+			en="Amerish&apos;s lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes."
+			es="Las abundantes arboledas y los rocosos afloramientos de Amerish proporcionan una amplia cobertura entre sus ondulados valles y sus desfiladeros de monta&#241;a."
+			fr="Les bosquets touffus et les affleurements rocheux d&apos;Amerish offrent une abondance d&apos;abris entre ses plaines immenses et ses cols montagneux."
+			it="I verdi boschi e gli affioramenti rocciosi di Amerish offrono ampie possibilit&#224; di rifugio tra pianure collinose e passi montani."
+			tr="Amerish&apos;s lush groves and rocky outcroppings provide ample cover between its rolling plains and mountain passes." />
+	</zone>
+</zone_list>

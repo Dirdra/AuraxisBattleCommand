@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_weapon_stat_by_faction_list
+	limit="0" returned="2" milliseconds="0" seconds="0.0">
+	<characters_weapon_stat_by_faction
+		character_id="5428010618040907073" item_id="24001" last_save="1416148840"
+		last_save_date="2014-11-16 14:40:40.159612" stat_name="weapon_killed_by"
+		value_nc="1" value_tr="0" value_vs="0" vehicle_id="0" />
+	<characters_weapon_stat_by_faction
+		character_id="5428011263331177457" item_id="5227" last_save="1353907663"
+		last_save_date="2012-11-26 05:27:43.183323" stat_name="weapon_damage_taken_by"
+		value_nc="0" value_tr="0" value_vs="330" vehicle_id="10" />
+</characters_weapon_stat_by_faction_list>

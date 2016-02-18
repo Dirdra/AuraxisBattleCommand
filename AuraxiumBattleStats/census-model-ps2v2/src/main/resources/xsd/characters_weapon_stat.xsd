@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:element name="characters_weapon_stat_list" type="characters_weapon_stat_list"></xsd:element>
+	
+	<xsd:complexType name="characters_weapon_stat_list">
+		<xsd:sequence>
+			<xsd:element name="characters_weapon_stat" type="characters_weapon_stat" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="characters_weapon_stat">
+		<xsd:attribute ref="character_id"></xsd:attribute>
+		<xsd:attribute ref="item_id"></xsd:attribute>
+		<xsd:attribute ref="last_save"></xsd:attribute>
+		<xsd:attribute ref="last_save_date"></xsd:attribute>
+		<xsd:attribute name="stat_name" type="xsd:string"></xsd:attribute>
+		<xsd:attribute name="value" type="xsd:int"></xsd:attribute>
+		<xsd:attribute ref="vehicle_id"></xsd:attribute>
+	</xsd:complexType>
+</xsd:schema>

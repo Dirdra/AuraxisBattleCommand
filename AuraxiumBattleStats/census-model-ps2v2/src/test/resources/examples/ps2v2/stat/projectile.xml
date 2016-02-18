@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<projectile_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<projectile drag="0" gravity="4" lifespan="5"
+		projectile_flight_type_id="1" projectile_id="3" speed="275" />
+	<projectile acceleration="100" drag="0" gravity="3"
+		lifespan="3" projectile_flight_type_id="1" projectile_id="4" speed="200"
+		speed_max="275" />
+	<projectile acceleration="0" drag="0" gravity="4" lifespan="5"
+		projectile_flight_type_id="1" projectile_id="5" speed="200" speed_max="0"
+		turn_rate="0" />
+</projectile_list>

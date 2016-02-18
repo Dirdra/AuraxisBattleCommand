@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<player_state_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<player_state description="Standing" player_state_id="0" />
+	<player_state description="Crouching" player_state_id="1" />
+	<player_state description="Running" player_state_id="2" />
+</player_state_list>

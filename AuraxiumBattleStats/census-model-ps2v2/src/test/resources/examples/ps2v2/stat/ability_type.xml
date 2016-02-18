@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ability_type_list limit="0" returned="2"
+	milliseconds="0" seconds="0.0">
+	<ability_type ability_type_id="3"/>
+	<ability_type ability_type_id="4"/>
+</ability_type_list>

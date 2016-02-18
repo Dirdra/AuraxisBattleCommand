@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="fire_mode_type_list">
+		<xsd:sequence>
+			<xsd:element name="fire_mode_type" type="fire_mode_type" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+	
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="fire_mode_type">
+		<xsd:attribute name="description" type="xsd:string"></xsd:attribute>
+		<xsd:attribute ref="fire_mode_type_id"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="fire_mode_type_list" type="fire_mode_type_list"></xsd:element>
+</xsd:schema>

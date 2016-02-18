@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema elementFormDefault="qualified"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://dgc.brainius.de/model/ps2v2">
+	<xsd:include schemaLocation="basic.xsd"></xsd:include>
+	
+	<xsd:complexType name="weapon_datasheet_list">
+		<xsd:sequence>
+			<xsd:element name="weapon_datasheet" type="weapon_datasheet" minOccurs="0" maxOccurs="unbounded"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attributeGroup ref="basicResponseAttributes"></xsd:attributeGroup>
+	</xsd:complexType>
+	
+	<xsd:complexType name="weapon_datasheet">
+		<xsd:sequence>
+			<xsd:element name="range" type="multi_language_description_type"></xsd:element>
+		</xsd:sequence>
+		
+		<xsd:attribute ref="item_id"></xsd:attribute>
+		<xsd:attribute name="damage" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="damage_min" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="damage_max" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="direct_damage" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="indirect_damage" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_cone" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="fire_cone_min" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="fire_cone_max" type="xsd:double"></xsd:attribute>
+		<xsd:attribute name="fire_rate_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_rate_ms_min" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="fire_rate_mx_max" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_ms" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_ms_min" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="reload_ms_max" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="clip_size" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="capacity" type="xsd:int"></xsd:attribute>
+		<xsd:attribute name="show_clip_size" type="xsd:short"></xsd:attribute>
+		<xsd:attribute name="show_fire_modes" type="xsd:short"></xsd:attribute>
+		<xsd:attribute name="show_range" type="xsd:short"></xsd:attribute>
+	</xsd:complexType>
+	
+	<xsd:element name="weapon_datasheet_list" type="weapon_datasheet_list"></xsd:element>
+</xsd:schema>

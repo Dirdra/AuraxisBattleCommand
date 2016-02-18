@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<player_state_group_list limit="0" returned="3"
+	milliseconds="0" seconds="0.0">
+	<player_state_group min_cone_of_fire="2"
+		player_state="Standing" player_state_group_id="1" />
+	<player_state_group min_cone_of_fire="7"
+		player_state="Falling Long" player_state_group_id="1" />
+	<player_state_group min_cone_of_fire="1.5"
+		player_state="Crouching" player_state_group_id="1" />
+</player_state_group_list>

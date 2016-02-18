@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resist_type_list limit="0" returned="3" milliseconds="0"
+	seconds="0.0">
+	<resist_type description="None" resist_type_id="0" />
+	<resist_type description="Melee" resist_type_id="1" />
+	<resist_type description="Personal Defense (Pistols, Rifles, MGs, NOT Snipers)"
+		resist_type_id="2" />
+</resist_type_list>

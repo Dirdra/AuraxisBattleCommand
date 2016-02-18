@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_stat_list limit="0" returned="2"
+	milliseconds="0" seconds="0.0">
+	<characters_stat character_id="5428010917244573841"
+		last_save="1353512651" last_save_date="2012-11-21 15:44:11.0"
+		profile_id="3" stat_name="hit_count" value_daily="74" value_forever="25"
+		value_monthly="74" value_one_life_max="15" value_weekly="74" />
+	<characters_stat character_id="5428010917244573841"
+		last_save="1353512651" last_save_date="2012-11-21 15:44:11.0"
+		profile_id="3" stat_name="fire_count" value_daily="775" value_forever="273"
+		value_monthly="775" value_one_life_max="117" value_weekly="775" />
+</characters_stat_list>

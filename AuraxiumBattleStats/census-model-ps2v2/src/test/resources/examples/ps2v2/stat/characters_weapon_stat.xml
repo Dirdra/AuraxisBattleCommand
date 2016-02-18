@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<characters_weapon_stat_list limit="0"
+	returned="2" milliseconds="0" seconds="0.0">
+	<characters_weapon_stat character_id="5428010618019178241"
+		item_id="5226" last_save="1360783411" last_save_date="2013-02-13 19:23:31.0"
+		stat_name="weapon_hit_count" value="255" vehicle_id="10" />
+	<characters_weapon_stat character_id="5428010618039236065"
+		item_id="5514" last_save="1353796444" last_save_date="2012-11-24 22:34:04.178032"
+		stat_name="weapon_play_time" value="113" vehicle_id="11" />
+</characters_weapon_stat_list>
