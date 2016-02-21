@@ -13,6 +13,7 @@
 		<module>census-util</module>
 		
 		<module>census-pushService</module>
+		<module>auraxis-commander</module>
 	</modules>
 
 	<properties>
