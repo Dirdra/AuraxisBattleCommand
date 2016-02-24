@@ -7,4 +7,5 @@ public interface GroupManagementOperations {
 	GroupManagementResponse createGroup(GroupManagementOrder order);
 	GroupManagementResponse addToGroup(GroupManagementOrder order);
 	GroupManagementResponse removeFromGroup(GroupManagementOrder order);
+	GroupManagementResponse deleteGroup(GroupManagementOrder order);
 }

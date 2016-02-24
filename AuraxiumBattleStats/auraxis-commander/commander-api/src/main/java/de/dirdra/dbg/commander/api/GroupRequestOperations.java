@@ -28,4 +28,5 @@ public interface GroupRequestOperations {
 	
 	//Rally
 	GroupRequestResponse orderRallyPoint(GroupRequest groupRequest);
+	GroupRequestResponse joinRallyPoint(GroupRequest groupRequest);
 }

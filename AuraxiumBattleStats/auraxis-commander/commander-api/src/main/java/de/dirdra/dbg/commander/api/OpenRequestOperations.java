@@ -12,4 +12,6 @@ public interface OpenRequestOperations {
 	RequestResponse requestVehicleRepair(Request request);
 	
 	RequestResponse requestGunner(Request request);
+	
+	RequestResponse registerForRequests(Request request);
 }
