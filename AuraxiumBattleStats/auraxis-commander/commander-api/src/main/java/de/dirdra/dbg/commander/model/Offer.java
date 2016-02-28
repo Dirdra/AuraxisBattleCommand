@@ -7,5 +7,7 @@ package de.dirdra.dbg.commander.model;
  *
  */
 public interface Offer {
-
+		OperationUser getOfferProvider();
+		
+		String getOfferSummary();
 }
