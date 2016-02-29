@@ -1,8 +1,8 @@
 package de.dirdra.dbg.commander.api;
 
-import de.dirdra.dbg.commander.model.AirSupportOffer;
-import de.dirdra.dbg.commander.model.Offer;
-import de.dirdra.dbg.commander.model.ProvideResponse;
+import de.dirdra.dbg.commander.model.offer.AirSupportOffer;
+import de.dirdra.dbg.commander.model.offer.Offer;
+import de.dirdra.dbg.commander.model.offer.ProvideResponse;
 
 /**
  * Operation for providing diffrent services
@@ -11,10 +11,12 @@ import de.dirdra.dbg.commander.model.ProvideResponse;
  *
  */
 public interface ProvideOperations {
-	ProvideResponse provideAntiAirSupport(AirSupportOffer offer);
-	ProvideResponse provideAntiTankSupport(Offer offer);
+	ProvideResponse provideAirSupport(AirSupportOffer offer);
+	ProvideResponse provideTankSupport(Offer offer);
 	ProvideResponse provideMaxSupport(Offer offer);
 	ProvideResponse provideVehicleRepair(Offer offer);
 	ProvideResponse provideVehicleAmmo(Offer offer);
 	ProvideResponse provideGunnerSupport(Offer offer);
+	
+//	ProvideResponse provideSpawn(Offer offer);
 }

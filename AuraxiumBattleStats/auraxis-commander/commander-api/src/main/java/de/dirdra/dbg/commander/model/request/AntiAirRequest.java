@@ -1,4 +1,6 @@
-package de.dirdra.dbg.commander.model;
+package de.dirdra.dbg.commander.model.request;
+
+import de.dirdra.dbg.commander.model.SimpleUserRequest;
 
 /**
  * Desciption of anti-air request<br>
@@ -7,13 +9,7 @@ package de.dirdra.dbg.commander.model;
  * @author Dirdra
  *
  */
-public interface AntiAirRequest extends SimpleUserRequest {
-	/**
-	 * Short summary of the force which is attacking
-	 * @return short descriptive string
-	 */
-	String getSummary();
-	
+public interface AntiAirRequest extends SimpleUserRequest {	
 	/**
 	 * number of ESFs in the area
 	 * @return

@@ -20,4 +20,11 @@ public interface SimpleUserRequest {
 	 * @return
 	 */
 	Location getRequestLocation();
+
+	/**
+	 * Short summary of the force which is attacking
+	 * 
+	 * @return short descriptive string; null when no description was set
+	 */
+	String getSummary();
 }
