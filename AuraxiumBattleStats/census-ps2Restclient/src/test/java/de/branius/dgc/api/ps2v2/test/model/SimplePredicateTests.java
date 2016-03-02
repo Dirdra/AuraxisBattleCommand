@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import uk.co.jemos.podam.api.PodamFactoryImpl;
 import de.brainius.dgc.api.ps2v2.impl.model.SimplePredicate;
-import de.branius.dgc.api.ps2v2.model.Modifiers;
+import de.dirdra.planetside2.census.api.model.Modifiers;
 
 public class SimplePredicateTests {
 	private SimplePredicate unitUnderTest;

@@ -11,7 +11,7 @@ import org.junit.Test;
 import org.restlet.Component;
 
 import de.brainius.dgc.api.ps2v2.impl.rest.Ps2RestClient;
-import de.brainius.dgc.ps2.census.model.ps2v2.SingleCharacterByIdList;
+import de.dirdra.census.model.ps2v2.SingleCharacterByIdList;
 import de.branius.dgc.api.ps2v2.test.TestConstants;
 
 public class TestPs2RestClient {

@@ -48,7 +48,7 @@
 							<clearOutputDir>true</clearOutputDir>
 							<schemaDirectory>src/main/resources/xsd</schemaDirectory>
 							<outputDirectory>target/generated-sources/java</outputDirectory>
-							<packageName>de.brainius.dgc.ps2.census.model.ps2v2</packageName>
+							<packageName>de.dirdra.census.model.ps2v2</packageName>
 						</configuration>
 					</execution>
 				</executions>

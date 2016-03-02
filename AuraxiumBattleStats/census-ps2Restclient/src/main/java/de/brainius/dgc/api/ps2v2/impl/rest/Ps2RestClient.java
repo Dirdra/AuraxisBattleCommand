@@ -13,11 +13,11 @@ import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import de.brainius.dgc.ps2.census.model.ps2v2.CharacterList;
-import de.branius.dgc.api.ps2v2.CensusDataApi;
-import de.branius.dgc.api.ps2v2.exception.CensusException;
-import de.branius.dgc.api.ps2v2.model.SearchPredicate;
-import de.branius.dgc.model.ps2v2.Constants;
+import de.dirdra.census.model.ps2v2.CharacterList;
+import de.dirdra.census.model.ps2v2.Constants;
+import de.dirdra.planetside2.census.api.CensusDataApi;
+import de.dirdra.planetside2.census.api.exception.CensusException;
+import de.dirdra.planetside2.census.api.model.SearchPredicate;
 
 public class Ps2RestClient implements CensusDataApi {
 	private static final Logger LOG = LoggerFactory.getLogger(Ps2RestClient.class);
@@ -61,7 +61,7 @@ public class Ps2RestClient implements CensusDataApi {
 	@SuppressWarnings("unchecked")
 	public <T> T getData(String collection, Class<T> responseType, String... queryCommands) throws CensusException {
 		LOG.debug("getData collection>{}, responseType>{}, queryCommands>{}", new Object[] {collection, responseType.getName(), queryCommands});
-		String response = producer.requestBody(getEndpoint(collection, de.branius.dgc.api.ps2v2.Constants.VERB_GET, queryCommands), StringUtils.EMPTY, String.class);
+		String response = producer.requestBody(getEndpoint(collection, de.dirdra.planetside2.census.api.Constants.VERB_GET, queryCommands), StringUtils.EMPTY, String.class);
 		LOG.trace("dataresponse>{}", response);
 		try {
 			return responseType.cast( ((JAXBElement<T>) unmarshaller.unmarshal(new StringReader(response))).getValue());
