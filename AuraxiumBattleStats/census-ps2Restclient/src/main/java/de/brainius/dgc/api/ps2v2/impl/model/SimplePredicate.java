@@ -4,8 +4,8 @@ import java.util.Optional;
 
 import org.apache.commons.lang3.StringUtils;
 
-import de.branius.dgc.api.ps2v2.model.Modifiers;
-import de.branius.dgc.api.ps2v2.model.SearchPredicate;
+import de.dirdra.planetside2.census.api.model.Modifiers;
+import de.dirdra.planetside2.census.api.model.SearchPredicate;
 
 public class SimplePredicate implements SearchPredicate {
 	private static final String DEFAULT_STRING = StringUtils.EMPTY;
