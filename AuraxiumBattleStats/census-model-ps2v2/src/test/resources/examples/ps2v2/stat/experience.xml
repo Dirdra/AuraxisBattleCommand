@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<experience_list limit="0" returned="2" milliseconds="0"
-	seconds="0.0">
-	<experience description="Kill Player" experience_id="1" />
-	<experience description="Kill Player Assist" experience_id="2" />
-</experience_list>

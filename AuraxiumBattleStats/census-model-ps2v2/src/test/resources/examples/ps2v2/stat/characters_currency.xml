@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<characters_currency_list limit="0" returned="2"
-	milliseconds="0" seconds="0.0">
-	<characters_currency character_id="5428010618013876865"
-		currency_id="4" currency_name="nanites" quantity="255" />
-	<characters_currency character_id="5428010618014138705"
-		currency_id="4" currency_name="nanites" quantity="200" />
-</characters_currency_list>

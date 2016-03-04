@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<fire_mode_type_list limit="0" returned="3"
-	milliseconds="0" seconds="0.0">
-	<fire_mode_type description="Projectile"
-		fire_mode_type_id="0" />
-	<fire_mode_type description="IronSight"
-		fire_mode_type_id="1" />
-	<fire_mode_type description="Melee" fire_mode_type_id="3" />
-</fire_mode_type_list>

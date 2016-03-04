@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<fire_group_list limit="0" returned="3" milliseconds="0"
-	seconds="0.0">
-	<fire_group fire_group_id="1" />
-	<fire_group fire_group_id="2" />
-	<fire_group fire_group_id="3" transition_duration_ms="500" />
-</fire_group_list>

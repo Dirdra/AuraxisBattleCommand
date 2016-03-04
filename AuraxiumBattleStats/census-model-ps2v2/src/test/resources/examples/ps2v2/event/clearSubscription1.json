@@ -1,1 +1,0 @@
-{"action":"clearSubscribe","characters":["1","2"],"eventNames":["BattleRankUp","Death","FacilityControl","GainExperience","ItemAdded","MetagameEvent","PlayerFacilityCapture","PlayerFacilityDefend","PlayerLogin","PlayerLogout","SkillAdded","VehicleDestroy"],"service":"event","worlds":["1","2"]}
