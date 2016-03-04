@@ -2,13 +2,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>census-api-ps2v2</artifactId>
-	<dependencies>
-		<dependency>
-			<groupId>de.brainius.dgc</groupId>
-			<artifactId>census-model-ps2v2</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-	</dependencies>
 	<groupId>de.brainius.dgc</groupId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>de.dirdra.census</groupId>
+			<artifactId>census-model-ps2v2</artifactId>
+			<version>0.1.0</version>
+		</dependency>
+	</dependencies>
 </project>
