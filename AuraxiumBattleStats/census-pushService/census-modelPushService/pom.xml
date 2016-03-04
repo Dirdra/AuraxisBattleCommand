@@ -12,10 +12,10 @@
   		<artifactId>census-pushServiceAPI</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
-  	<dependency>
-  		<groupId>de.brainius.dgc</groupId>
-  		<artifactId>census-model-ps2v2</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+		<dependency>
+			<groupId>de.dirdra.census</groupId>
+			<artifactId>census-model-ps2v2</artifactId>
+			<version>0.1.0</version>
+		</dependency>
   </dependencies>
 </project>
