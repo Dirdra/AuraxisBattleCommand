@@ -14,7 +14,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import de.dirdra.census.model.ps2v2.CharacterList;
-import de.dirdra.census.model.ps2v2.Constants;
+import de.dirdra.census.model.ps2v2.util.Constants;
 import de.dirdra.planetside2.census.api.CensusDataApi;
 import de.dirdra.planetside2.census.api.exception.CensusException;
 import de.dirdra.planetside2.census.api.model.SearchPredicate;
